@@ -58,5 +58,7 @@ TABLE.equation TD	{ white-space:nowrap; padding-bottom:5px; }
 TABLE		{ border-collapse: collapse; }
 
 /* document-specific styles come next */
+DIV.center		{   }
 DIV.navigation		{   }
 PRE.preform		{   }
+SPAN.arabic		{   }

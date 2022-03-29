@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2022.1.4)  29 MAR 2022 18:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2022.1.4)  29 MAR 2022 19:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -439,25 +439,25 @@ LaTeX Warning: Label `tbl:FG' multiply defined.
 )
 \openout1 = `images.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-Package hyperref Info: Link coloring OFF on input line 131.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+Package hyperref Info: Link coloring OFF on input line 134.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 (/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
@@ -469,9 +469,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count291
 )
-LaTeX Info: Redefining \ref on input line 131.
-LaTeX Info: Redefining \pageref on input line 131.
-LaTeX Info: Redefining \nameref on input line 131.
+LaTeX Info: Redefining \ref on input line 134.
+LaTeX Info: Redefining \pageref on input line 134.
+LaTeX Info: Redefining \nameref on input line 134.
 (./images.out) (./images.out)
 \@outlinefile=\write4
 \openout4 = `images.out'.
@@ -522,1899 +522,780 @@ latex2htmlLength oddsidemargin=53.0pt
 
 latex2htmlLength evensidemargin=53.0pt
 
+<figures/washington/FI_across-time.png, id=4, 393.1488pt x 268.6035pt>
+File: figures/washington/FI_across-time.png Graphic file (type png)
+<use figures/washington/FI_across-time.png>
+Package pdftex.def Info: figures/washington/FI_across-time.png  used on input l
+ine 162.
+(pdftex.def)             Requested size: 276.00105pt x 188.57446pt.
 
-LaTeX Warning: File `figures/toronto/FI_raw_time_7.png' not found on input line
- 169.
+:tex2html_wrap846:lthtmlCropMarkHeight:=194.57446pt
 
-
-! Package pdftex.def Error: File `figures/toronto/FI_raw_time_7.png' not found:
- using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.169 ...width]{figures/toronto/FI_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5122:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5122:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+:tex2html_wrap846:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
 Preview: Tightpage -32890 -32890 32890 32890
-[1{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-LaTeX Warning: File `figures/mumbai/FI_raw_time_7.png' not found on input line 
-180.
-
-
-! Package pdftex.def Error: File `figures/mumbai/FI_raw_time_7.png' not found: 
-using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.180 ...ewidth]{figures/mumbai/FI_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5188:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5188:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[2]
-
-LaTeX Warning: File `figures/mumbai/FG_raw_time_7.png' not found on input line 
-187.
-
-
-! Package pdftex.def Error: File `figures/mumbai/FG_raw_time_7.png' not found: 
-using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.187 ...ewidth]{figures/mumbai/FG_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5210:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5210:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[3]
-
-LaTeX Warning: File `figures/mumbai/tau_raw_time_7.png' not found on input line
- 194.
-
-
-! Package pdftex.def Error: File `figures/mumbai/tau_raw_time_7.png' not found:
- using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.194 ...width]{figures/mumbai/tau_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5232:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5232:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[4]
-
-LaTeX Warning: File `figures/cairo/FI_raw_time_7.png' not found on input line 2
-03.
-
-
-! Package pdftex.def Error: File `figures/cairo/FI_raw_time_7.png' not found: u
-sing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.203 ...newidth]{figures/cairo/FI_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5256:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5256:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[5]
-
-LaTeX Warning: File `figures/cairo/FG_raw_time_7.png' not found on input line 2
-10.
-
-
-! Package pdftex.def Error: File `figures/cairo/FG_raw_time_7.png' not found: u
-sing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.210 ...newidth]{figures/cairo/FG_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5278:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5278:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[6]
-
-LaTeX Warning: File `figures/cairo/tau_raw_time_7.png' not found on input line 
-217.
-
-
-! Package pdftex.def Error: File `figures/cairo/tau_raw_time_7.png' not found: 
-using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.217 ...ewidth]{figures/cairo/tau_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5300:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5300:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[7]
-
-LaTeX Warning: File `figures/montreal/FI_raw_time_7.png' not found on input lin
-e 226.
-
-
-! Package pdftex.def Error: File `figures/montreal/FI_raw_time_7.png' not found
-: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.226 ...idth]{figures/montreal/FI_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5324:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5324:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[8]
-
-LaTeX Warning: File `figures/montreal/FG_raw_time_7.png' not found on input lin
-e 233.
-
-
-! Package pdftex.def Error: File `figures/montreal/FG_raw_time_7.png' not found
-: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.233 ...idth]{figures/montreal/FG_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5346:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5346:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[9]
-
-LaTeX Warning: File `figures/montreal/tau_raw_time_7.png' not found on input li
-ne 240.
-
-
-! Package pdftex.def Error: File `figures/montreal/tau_raw_time_7.png' not foun
-d: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.240 ...dth]{figures/montreal/tau_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5368:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5368:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[10]
-
-LaTeX Warning: File `figures/auckland/FI_raw_time_7.png' not found on input lin
-e 249.
-
-
-! Package pdftex.def Error: File `figures/auckland/FI_raw_time_7.png' not found
-: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.249 ...idth]{figures/auckland/FI_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5392:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5392:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[11]
-
-LaTeX Warning: File `figures/auckland/FG_raw_time_7.png' not found on input lin
-e 256.
-
-
-! Package pdftex.def Error: File `figures/auckland/FG_raw_time_7.png' not found
-: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.256 ...idth]{figures/auckland/FG_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5414:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5414:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[12]
-
-LaTeX Warning: File `figures/auckland/tau_raw_time_7.png' not found on input li
-ne 263.
-
-
-! Package pdftex.def Error: File `figures/auckland/tau_raw_time_7.png' not foun
-d: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.263 ...dth]{figures/auckland/tau_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5436:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5436:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[13]
-
-LaTeX Warning: File `figures/hanoi/FI_raw_time_7.png' not found on input line 2
-72.
-
-
-! Package pdftex.def Error: File `figures/hanoi/FI_raw_time_7.png' not found: u
-sing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.272 ...newidth]{figures/hanoi/FI_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5460:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5460:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[14]
-
-LaTeX Warning: File `figures/hanoi/FG_raw_time_7.png' not found on input line 2
-79.
-
-
-! Package pdftex.def Error: File `figures/hanoi/FG_raw_time_7.png' not found: u
-sing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.279 ...newidth]{figures/hanoi/FG_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5482:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5482:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[15]
-
-LaTeX Warning: File `figures/hanoi/tau_raw_time_7.png' not found on input line 
-286.
-
-
-! Package pdftex.def Error: File `figures/hanoi/tau_raw_time_7.png' not found: 
-using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.286 ...ewidth]{figures/hanoi/tau_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5504:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5504:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[16]
-
-LaTeX Warning: File `figures/perth/FI_raw_time_7.png' not found on input line 3
-00.
-
-
-! Package pdftex.def Error: File `figures/perth/FI_raw_time_7.png' not found: u
-sing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.300 ...newidth]{figures/perth/FI_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5593:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5593:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[17]
-
-LaTeX Warning: File `figures/perth/FG_raw_time_6.png' not found on input line 3
-07.
-
-
-! Package pdftex.def Error: File `figures/perth/FG_raw_time_6.png' not found: u
-sing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.307 ...newidth]{figures/perth/FG_raw_time_6.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5615:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5615:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[18]
-
-LaTeX Warning: File `figures/perth/FG_raw_time_7.png' not found on input line 3
-13.
-
-
-! Package pdftex.def Error: File `figures/perth/FG_raw_time_7.png' not found: u
-sing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.313 ...newidth]{figures/perth/FG_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5616:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5616:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[19]
-
-LaTeX Warning: File `figures/perth/tau_raw_time_6.png' not found on input line 
-320.
-
-
-! Package pdftex.def Error: File `figures/perth/tau_raw_time_6.png' not found: 
-using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.320 ...ewidth]{figures/perth/tau_raw_time_6.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5638:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5638:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[20]
-
-LaTeX Warning: File `figures/perth/tau_raw_time_7.png' not found on input line 
-326.
-
-
-! Package pdftex.def Error: File `figures/perth/tau_raw_time_7.png' not found: 
-using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.326 ...ewidth]{figures/perth/tau_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5639:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5639:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[21]
-
-LaTeX Warning: File `figures/lagos/FI_raw_time_7.png' not found on input line 3
-35.
-
-
-! Package pdftex.def Error: File `figures/lagos/FI_raw_time_7.png' not found: u
-sing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.335 ...newidth]{figures/lagos/FI_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5663:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5663:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[22]
-
-LaTeX Warning: File `figures/lagos/FG_raw_time_6.png' not found on input line 3
-42.
-
-
-! Package pdftex.def Error: File `figures/lagos/FG_raw_time_6.png' not found: u
-sing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.342 ...newidth]{figures/lagos/FG_raw_time_6.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5685:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5685:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[23]
-
-LaTeX Warning: File `figures/lagos/FG_raw_time_7.png' not found on input line 3
-48.
-
-
-! Package pdftex.def Error: File `figures/lagos/FG_raw_time_7.png' not found: u
-sing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.348 ...newidth]{figures/lagos/FG_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5686:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5686:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[24]
-
-LaTeX Warning: File `figures/lagos/tau_raw_time_6.png' not found on input line 
-355.
-
-
-! Package pdftex.def Error: File `figures/lagos/tau_raw_time_6.png' not found: 
-using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.355 ...ewidth]{figures/lagos/tau_raw_time_6.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5708:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5708:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[25]
-
-LaTeX Warning: File `figures/lagos/tau_raw_time_7.png' not found on input line 
-361.
-
-
-! Package pdftex.def Error: File `figures/lagos/tau_raw_time_7.png' not found: 
-using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.361 ...ewidth]{figures/lagos/tau_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5709:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5709:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[26]
-
-LaTeX Warning: File `figures/jakarta/FI_raw_time_7.png' not found on input line
- 370.
-
-
-! Package pdftex.def Error: File `figures/jakarta/FI_raw_time_7.png' not found:
- using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.370 ...width]{figures/jakarta/FI_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5733:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5733:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[27]
-
-LaTeX Warning: File `figures/jakarta/FG_raw_time_6.png' not found on input line
- 377.
-
-
-! Package pdftex.def Error: File `figures/jakarta/FG_raw_time_6.png' not found:
- using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.377 ...width]{figures/jakarta/FG_raw_time_6.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5755:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5755:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[28]
-
-LaTeX Warning: File `figures/jakarta/FG_raw_time_7.png' not found on input line
+[1 </home/samudra/Desktop/sjv_website_dev/figures/washington/FI_across-time.png
+>]
+<figures/washington/FI_point-in-time.png, id=11, 393.1488pt x 268.6035pt>
+File: figures/washington/FI_point-in-time.png Graphic file (type png)
+<use figures/washington/FI_point-in-time.png>
+Package pdftex.def Info: figures/washington/FI_point-in-time.png  used on input
+ line 168.
+(pdftex.def)             Requested size: 276.00105pt x 188.57446pt.
+
+:tex2html_wrap847:lthtmlCropMarkHeight:=194.57446pt
+
+:tex2html_wrap847:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[2 </home/samudra/Desktop/sjv_website_dev/figures/washington/FI_point-in-time.p
+ng>]
+<figures/washington/FI_raw_lattice.png, id=17, 947.7006pt x 1317.2412pt>
+File: figures/washington/FI_raw_lattice.png Graphic file (type png)
+<use figures/washington/FI_raw_lattice.png>
+Package pdftex.def Info: figures/washington/FI_raw_lattice.png  used on input l
+ine 174.
+(pdftex.def)             Requested size: 413.99895pt x 575.42734pt.
+
+:tex2html_wrap848:lthtmlCropMarkHeight:=581.42734pt
+
+:tex2html_wrap848:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[3 </home/samudra/Desktop/sjv_website_dev/figures/washington/FI_raw_lattice.png
+>]
+<figures/washington/FI_raw_time_0.png, id=23, 1787.9598pt x 1180.8918pt>
+File: figures/washington/FI_raw_time_0.png Graphic file (type png)
+<use figures/washington/FI_raw_time_0.png>
+Package pdftex.def Info: figures/washington/FI_raw_time_0.png  used on input li
+ne 180.
+(pdftex.def)             Requested size: 276.00105pt x 182.27954pt.
+
+:tex2html_wrap849:lthtmlCropMarkHeight:=188.27954pt
+
+:tex2html_wrap849:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[4 </home/samudra/Desktop/sjv_website_dev/figures/washington/FI_raw_time_0.png>
+]
+<figures/washington/FI_raw_time_1.png, id=29, 1787.9598pt x 1180.8918pt>
+File: figures/washington/FI_raw_time_1.png Graphic file (type png)
+<use figures/washington/FI_raw_time_1.png>
+Package pdftex.def Info: figures/washington/FI_raw_time_1.png  used on input li
+ne 186.
+(pdftex.def)             Requested size: 276.00105pt x 182.27954pt.
+
+:tex2html_wrap850:lthtmlCropMarkHeight:=188.27954pt
+
+:tex2html_wrap850:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[5 </home/samudra/Desktop/sjv_website_dev/figures/washington/FI_raw_time_1.png>
+]
+<figures/washington/FI_raw_time_2.png, id=35, 1787.9598pt x 1180.8918pt>
+File: figures/washington/FI_raw_time_2.png Graphic file (type png)
+<use figures/washington/FI_raw_time_2.png>
+Package pdftex.def Info: figures/washington/FI_raw_time_2.png  used on input li
+ne 192.
+(pdftex.def)             Requested size: 276.00105pt x 182.27954pt.
+
+:tex2html_wrap851:lthtmlCropMarkHeight:=188.27954pt
+
+:tex2html_wrap851:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[6 </home/samudra/Desktop/sjv_website_dev/figures/washington/FI_raw_time_2.png>
+]
+<figures/washington/FI_raw_time_3.png, id=41, 1787.9598pt x 1180.8918pt>
+File: figures/washington/FI_raw_time_3.png Graphic file (type png)
+<use figures/washington/FI_raw_time_3.png>
+Package pdftex.def Info: figures/washington/FI_raw_time_3.png  used on input li
+ne 198.
+(pdftex.def)             Requested size: 276.00105pt x 182.27954pt.
+
+:tex2html_wrap852:lthtmlCropMarkHeight:=188.27954pt
+
+:tex2html_wrap852:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[7 </home/samudra/Desktop/sjv_website_dev/figures/washington/FI_raw_time_3.png>
+]
+<figures/washington/FI_raw_time_4.png, id=48, 1787.9598pt x 1180.8918pt>
+File: figures/washington/FI_raw_time_4.png Graphic file (type png)
+<use figures/washington/FI_raw_time_4.png>
+Package pdftex.def Info: figures/washington/FI_raw_time_4.png  used on input li
+ne 204.
+(pdftex.def)             Requested size: 276.00105pt x 182.27954pt.
+
+:tex2html_wrap853:lthtmlCropMarkHeight:=188.27954pt
+
+:tex2html_wrap853:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[8 </home/samudra/Desktop/sjv_website_dev/figures/washington/FI_raw_time_4.png>
+]
+<figures/washington/FI_raw_time_5.png, id=54, 1787.9598pt x 1180.8918pt>
+File: figures/washington/FI_raw_time_5.png Graphic file (type png)
+<use figures/washington/FI_raw_time_5.png>
+Package pdftex.def Info: figures/washington/FI_raw_time_5.png  used on input li
+ne 210.
+(pdftex.def)             Requested size: 276.00105pt x 182.27954pt.
+
+:tex2html_wrap854:lthtmlCropMarkHeight:=188.27954pt
+
+:tex2html_wrap854:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[9 </home/samudra/Desktop/sjv_website_dev/figures/washington/FI_raw_time_5.png>
+]
+<figures/washington/FI_raw_time_6.png, id=60, 1791.8142pt x 1180.8918pt>
+File: figures/washington/FI_raw_time_6.png Graphic file (type png)
+<use figures/washington/FI_raw_time_6.png>
+Package pdftex.def Info: figures/washington/FI_raw_time_6.png  used on input li
+ne 216.
+(pdftex.def)             Requested size: 276.00105pt x 181.88312pt.
+
+:tex2html_wrap855:lthtmlCropMarkHeight:=187.88312pt
+
+:tex2html_wrap855:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[10 </home/samudra/Desktop/sjv_website_dev/figures/washington/FI_raw_time_6.png
+>]
+<figures/washington/FI_raw_time_7.png, id=66, 1791.8142pt x 1180.8918pt>
+File: figures/washington/FI_raw_time_7.png Graphic file (type png)
+<use figures/washington/FI_raw_time_7.png>
+Package pdftex.def Info: figures/washington/FI_raw_time_7.png  used on input li
+ne 222.
+(pdftex.def)             Requested size: 276.00105pt x 181.88312pt.
+
+:tex2html_wrap856:lthtmlCropMarkHeight:=187.88312pt
+
+:tex2html_wrap856:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[11 </home/samudra/Desktop/sjv_website_dev/figures/washington/FI_raw_time_7.png
+>]
+<figures/washington/FG_across-time.png, id=72, 394.3533pt x 268.6035pt>
+File: figures/washington/FG_across-time.png Graphic file (type png)
+<use figures/washington/FG_across-time.png>
+Package pdftex.def Info: figures/washington/FG_across-time.png  used on input l
+ine 229.
+(pdftex.def)             Requested size: 276.00105pt x 187.99248pt.
+
+:tex2html_wrap878:lthtmlCropMarkHeight:=193.99248pt
+
+:tex2html_wrap878:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[12 </home/samudra/Desktop/sjv_website_dev/figures/washington/FG_across-time.pn
+g>]
+<figures/washington/FG_point-in-time.png, id=78, 393.1488pt x 268.6035pt>
+File: figures/washington/FG_point-in-time.png Graphic file (type png)
+<use figures/washington/FG_point-in-time.png>
+Package pdftex.def Info: figures/washington/FG_point-in-time.png  used on input
+ line 235.
+(pdftex.def)             Requested size: 276.00105pt x 188.57446pt.
+
+:tex2html_wrap879:lthtmlCropMarkHeight:=194.57446pt
+
+:tex2html_wrap879:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[13 </home/samudra/Desktop/sjv_website_dev/figures/washington/FG_point-in-time.
+png>]
+<figures/washington/FG_raw_lattice.png, id=85, 969.1407pt x 1338.6813pt>
+File: figures/washington/FG_raw_lattice.png Graphic file (type png)
+<use figures/washington/FG_raw_lattice.png>
+Package pdftex.def Info: figures/washington/FG_raw_lattice.png  used on input l
+ine 241.
+(pdftex.def)             Requested size: 413.99895pt x 571.86325pt.
+
+:tex2html_wrap880:lthtmlCropMarkHeight:=577.86325pt
+
+:tex2html_wrap880:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[14 </home/samudra/Desktop/sjv_website_dev/figures/washington/FG_raw_lattice.pn
+g>]
+<figures/washington/FG_raw_time_0.png, id=91, 1812.0498pt x 1180.8918pt>
+File: figures/washington/FG_raw_time_0.png Graphic file (type png)
+<use figures/washington/FG_raw_time_0.png>
+Package pdftex.def Info: figures/washington/FG_raw_time_0.png  used on input li
+ne 247.
+(pdftex.def)             Requested size: 276.00105pt x 179.865pt.
+
+:tex2html_wrap881:lthtmlCropMarkHeight:=185.865pt
+
+:tex2html_wrap881:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[15 </home/samudra/Desktop/sjv_website_dev/figures/washington/FG_raw_time_0.png
+>]
+<figures/washington/FG_raw_time_1.png, id=97, 1812.0498pt x 1183.3008pt>
+File: figures/washington/FG_raw_time_1.png Graphic file (type png)
+<use figures/washington/FG_raw_time_1.png>
+Package pdftex.def Info: figures/washington/FG_raw_time_1.png  used on input li
+ne 253.
+(pdftex.def)             Requested size: 276.00105pt x 180.23192pt.
+
+:tex2html_wrap882:lthtmlCropMarkHeight:=186.23192pt
+
+:tex2html_wrap882:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[16 </home/samudra/Desktop/sjv_website_dev/figures/washington/FG_raw_time_1.png
+>]
+<figures/washington/FG_raw_time_2.png, id=103, 1812.0498pt x 1180.8918pt>
+File: figures/washington/FG_raw_time_2.png Graphic file (type png)
+<use figures/washington/FG_raw_time_2.png>
+Package pdftex.def Info: figures/washington/FG_raw_time_2.png  used on input li
+ne 259.
+(pdftex.def)             Requested size: 276.00105pt x 179.865pt.
+
+:tex2html_wrap883:lthtmlCropMarkHeight:=185.865pt
+
+:tex2html_wrap883:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[17 </home/samudra/Desktop/sjv_website_dev/figures/washington/FG_raw_time_2.png
+>]
+<figures/washington/FG_raw_time_3.png, id=109, 1812.0498pt x 1180.8918pt>
+File: figures/washington/FG_raw_time_3.png Graphic file (type png)
+<use figures/washington/FG_raw_time_3.png>
+Package pdftex.def Info: figures/washington/FG_raw_time_3.png  used on input li
+ne 265.
+(pdftex.def)             Requested size: 276.00105pt x 179.865pt.
+
+:tex2html_wrap884:lthtmlCropMarkHeight:=185.865pt
+
+:tex2html_wrap884:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[18 </home/samudra/Desktop/sjv_website_dev/figures/washington/FG_raw_time_3.png
+>]
+<figures/washington/FG_raw_time_4.png, id=115, 1812.0498pt x 1180.8918pt>
+File: figures/washington/FG_raw_time_4.png Graphic file (type png)
+<use figures/washington/FG_raw_time_4.png>
+Package pdftex.def Info: figures/washington/FG_raw_time_4.png  used on input li
+ne 271.
+(pdftex.def)             Requested size: 276.00105pt x 179.865pt.
+
+:tex2html_wrap885:lthtmlCropMarkHeight:=185.865pt
+
+:tex2html_wrap885:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[19 </home/samudra/Desktop/sjv_website_dev/figures/washington/FG_raw_time_4.png
+>]
+<figures/washington/FG_raw_time_5.png, id=122, 1815.9042pt x 1180.8918pt>
+File: figures/washington/FG_raw_time_5.png Graphic file (type png)
+<use figures/washington/FG_raw_time_5.png>
+Package pdftex.def Info: figures/washington/FG_raw_time_5.png  used on input li
+ne 277.
+(pdftex.def)             Requested size: 276.00105pt x 179.4866pt.
+
+:tex2html_wrap886:lthtmlCropMarkHeight:=185.4866pt
+
+:tex2html_wrap886:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[20 </home/samudra/Desktop/sjv_website_dev/figures/washington/FG_raw_time_5.png
+>]
+<figures/washington/FG_raw_time_6.png, id=128, 1819.7586pt x 1180.8918pt>
+File: figures/washington/FG_raw_time_6.png Graphic file (type png)
+<use figures/washington/FG_raw_time_6.png>
+Package pdftex.def Info: figures/washington/FG_raw_time_6.png  used on input li
+ne 283.
+(pdftex.def)             Requested size: 276.00105pt x 179.0902pt.
+
+:tex2html_wrap887:lthtmlCropMarkHeight:=185.0902pt
+
+:tex2html_wrap887:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[21 </home/samudra/Desktop/sjv_website_dev/figures/washington/FG_raw_time_6.png
+>]
+<figures/washington/FG_raw_time_7.png, id=134, 1819.7586pt x 1181.3736pt>
+File: figures/washington/FG_raw_time_7.png Graphic file (type png)
+<use figures/washington/FG_raw_time_7.png>
+Package pdftex.def Info: figures/washington/FG_raw_time_7.png  used on input li
+ne 289.
+(pdftex.def)             Requested size: 276.00105pt x 179.16325pt.
+
+:tex2html_wrap888:lthtmlCropMarkHeight:=185.16325pt
+
+:tex2html_wrap888:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[22 </home/samudra/Desktop/sjv_website_dev/figures/washington/FG_raw_time_7.png
+>]
+<figures/washington/tau_across-time.png, id=140, 393.1488pt x 268.6035pt>
+File: figures/washington/tau_across-time.png Graphic file (type png)
+<use figures/washington/tau_across-time.png>
+Package pdftex.def Info: figures/washington/tau_across-time.png  used on input 
+line 296.
+(pdftex.def)             Requested size: 276.00105pt x 188.57446pt.
+
+:tex2html_wrap910:lthtmlCropMarkHeight:=194.57446pt
+
+:tex2html_wrap910:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[23 </home/samudra/Desktop/sjv_website_dev/figures/washington/tau_across-time.p
+ng>]
+<figures/washington/tau_point-in-time.png, id=146, 394.1124pt x 268.6035pt>
+File: figures/washington/tau_point-in-time.png Graphic file (type png)
+<use figures/washington/tau_point-in-time.png>
+Package pdftex.def Info: figures/washington/tau_point-in-time.png  used on inpu
+t line 302.
+(pdftex.def)             Requested size: 276.00105pt x 188.11133pt.
+
+:tex2html_wrap911:lthtmlCropMarkHeight:=194.11133pt
+
+:tex2html_wrap911:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[24 </home/samudra/Desktop/sjv_website_dev/figures/washington/tau_point-in-time
+.png>]
+<figures/washington/tau_raw_time_0.png, id=152, 1768.206pt x 1180.8918pt>
+File: figures/washington/tau_raw_time_0.png Graphic file (type png)
+<use figures/washington/tau_raw_time_0.png>
+Package pdftex.def Info: figures/washington/tau_raw_time_0.png  used on input l
+ine 308.
+(pdftex.def)             Requested size: 276.00105pt x 184.31567pt.
+
+:tex2html_wrap912:lthtmlCropMarkHeight:=190.31567pt
+
+:tex2html_wrap912:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[25 </home/samudra/Desktop/sjv_website_dev/figures/washington/tau_raw_time_0.pn
+g>]
+<figures/washington/tau_raw_time_1.png, id=159, 1768.206pt x 1180.8918pt>
+File: figures/washington/tau_raw_time_1.png Graphic file (type png)
+<use figures/washington/tau_raw_time_1.png>
+Package pdftex.def Info: figures/washington/tau_raw_time_1.png  used on input l
+ine 314.
+(pdftex.def)             Requested size: 276.00105pt x 184.31567pt.
+
+:tex2html_wrap913:lthtmlCropMarkHeight:=190.31567pt
+
+:tex2html_wrap913:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[26 </home/samudra/Desktop/sjv_website_dev/figures/washington/tau_raw_time_1.pn
+g>]
+<figures/washington/tau_raw_time_2.png, id=165, 1768.206pt x 1180.8918pt>
+File: figures/washington/tau_raw_time_2.png Graphic file (type png)
+<use figures/washington/tau_raw_time_2.png>
+Package pdftex.def Info: figures/washington/tau_raw_time_2.png  used on input l
+ine 320.
+(pdftex.def)             Requested size: 276.00105pt x 184.31567pt.
+
+:tex2html_wrap914:lthtmlCropMarkHeight:=190.31567pt
+
+:tex2html_wrap914:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[27 </home/samudra/Desktop/sjv_website_dev/figures/washington/tau_raw_time_2.pn
+g>]
+<figures/washington/tau_raw_time_3.png, id=171, 1768.206pt x 1180.8918pt>
+File: figures/washington/tau_raw_time_3.png Graphic file (type png)
+<use figures/washington/tau_raw_time_3.png>
+Package pdftex.def Info: figures/washington/tau_raw_time_3.png  used on input l
+ine 326.
+(pdftex.def)             Requested size: 276.00105pt x 184.31567pt.
+
+:tex2html_wrap915:lthtmlCropMarkHeight:=190.31567pt
+
+:tex2html_wrap915:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[28 </home/samudra/Desktop/sjv_website_dev/figures/washington/tau_raw_time_3.pn
+g>]
+<figures/washington/tau_raw_time_4.png, id=177, 1768.206pt x 1180.8918pt>
+File: figures/washington/tau_raw_time_4.png Graphic file (type png)
+<use figures/washington/tau_raw_time_4.png>
+Package pdftex.def Info: figures/washington/tau_raw_time_4.png  used on input l
+ine 332.
+(pdftex.def)             Requested size: 276.00105pt x 184.31567pt.
+
+:tex2html_wrap916:lthtmlCropMarkHeight:=190.31567pt
+
+:tex2html_wrap916:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[29 </home/samudra/Desktop/sjv_website_dev/figures/washington/tau_raw_time_4.pn
+g>]
+<figures/washington/tau_raw_time_5.png, id=183, 1772.0604pt x 1180.8918pt>
+File: figures/washington/tau_raw_time_5.png Graphic file (type png)
+<use figures/washington/tau_raw_time_5.png>
+Package pdftex.def Info: figures/washington/tau_raw_time_5.png  used on input l
+ine 338.
+(pdftex.def)             Requested size: 276.00105pt x 183.91927pt.
+
+:tex2html_wrap917:lthtmlCropMarkHeight:=189.91927pt
+
+:tex2html_wrap917:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[30 </home/samudra/Desktop/sjv_website_dev/figures/washington/tau_raw_time_5.pn
+g>]
+<figures/washington/tau_raw_time_6.png, id=189, 1775.9148pt x 1180.8918pt>
+File: figures/washington/tau_raw_time_6.png Graphic file (type png)
+<use figures/washington/tau_raw_time_6.png>
+Package pdftex.def Info: figures/washington/tau_raw_time_6.png  used on input l
+ine 344.
+(pdftex.def)             Requested size: 276.00105pt x 183.52284pt.
+
+:tex2html_wrap918:lthtmlCropMarkHeight:=189.52284pt
+
+:tex2html_wrap918:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[31 </home/samudra/Desktop/sjv_website_dev/figures/washington/tau_raw_time_6.pn
+g>]
+<figures/washington/tau_raw_time_7.png, id=196, 1775.9148pt x 1180.8918pt>
+File: figures/washington/tau_raw_time_7.png Graphic file (type png)
+<use figures/washington/tau_raw_time_7.png>
+Package pdftex.def Info: figures/washington/tau_raw_time_7.png  used on input l
+ine 350.
+(pdftex.def)             Requested size: 276.00105pt x 183.52284pt.
+
+:tex2html_wrap919:lthtmlCropMarkHeight:=189.52284pt
+
+:tex2html_wrap919:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[32 </home/samudra/Desktop/sjv_website_dev/figures/washington/tau_raw_time_7.pn
+g>]
+<figures/washington/nmi.png, id=202, 403.5075pt x 275.1078pt>
+File: figures/washington/nmi.png Graphic file (type png)
+<use figures/washington/nmi.png>
+Package pdftex.def Info: figures/washington/nmi.png  used on input line 357.
+(pdftex.def)             Requested size: 413.99895pt x 282.26436pt.
+
+:tex2html_wrap941:lthtmlCropMarkHeight:=288.26436pt
+
+:tex2html_wrap941:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[33 </home/samudra/Desktop/sjv_website_dev/figures/washington/nmi.png>]
+<figures/brooklyn/FI_across-time.png, id=209, 393.1488pt x 268.6035pt>
+File: figures/brooklyn/FI_across-time.png Graphic file (type png)
+<use figures/brooklyn/FI_across-time.png>
+Package pdftex.def Info: figures/brooklyn/FI_across-time.png  used on input lin
+e 365.
+(pdftex.def)             Requested size: 276.00105pt x 188.57446pt.
+
+:tex2html_wrap944:lthtmlCropMarkHeight:=194.57446pt
+
+:tex2html_wrap944:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[34 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/FI_across-time.png>
+]
+<figures/brooklyn/FI_point-in-time.png, id=215, 393.1488pt x 268.6035pt>
+File: figures/brooklyn/FI_point-in-time.png Graphic file (type png)
+<use figures/brooklyn/FI_point-in-time.png>
+Package pdftex.def Info: figures/brooklyn/FI_point-in-time.png  used on input l
+ine 371.
+(pdftex.def)             Requested size: 276.00105pt x 188.57446pt.
+
+:tex2html_wrap945:lthtmlCropMarkHeight:=194.57446pt
+
+:tex2html_wrap945:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[35 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/FI_point-in-time.pn
+g>]
+<figures/brooklyn/FI_raw_lattice.png, id=221, 508.0581pt x 683.1924pt>
+File: figures/brooklyn/FI_raw_lattice.png Graphic file (type png)
+<use figures/brooklyn/FI_raw_lattice.png>
+Package pdftex.def Info: figures/brooklyn/FI_raw_lattice.png  used on input lin
+e 377.
+(pdftex.def)             Requested size: 413.99895pt x 556.72913pt.
+
+:tex2html_wrap946:lthtmlCropMarkHeight:=562.72913pt
+
+:tex2html_wrap946:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[36 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/FI_raw_lattice.png>
+]
+<figures/brooklyn/FI_raw_time_0.png, id=227, 874.9488pt x 580.569pt>
+File: figures/brooklyn/FI_raw_time_0.png Graphic file (type png)
+<use figures/brooklyn/FI_raw_time_0.png>
+Package pdftex.def Info: figures/brooklyn/FI_raw_time_0.png  used on input line
  383.
-
-
-! Package pdftex.def Error: File `figures/jakarta/FG_raw_time_7.png' not found:
- using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.383 ...width]{figures/jakarta/FG_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5756:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5756:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[29]
-
-LaTeX Warning: File `figures/jakarta/tau_raw_time_6.png' not found on input lin
-e 390.
-
-
-! Package pdftex.def Error: File `figures/jakarta/tau_raw_time_6.png' not found
-: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.390 ...idth]{figures/jakarta/tau_raw_time_6.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5778:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5778:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[30]
-
-LaTeX Warning: File `figures/jakarta/tau_raw_time_7.png' not found on input lin
-e 396.
-
-
-! Package pdftex.def Error: File `figures/jakarta/tau_raw_time_7.png' not found
-: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.396 ...idth]{figures/jakarta/tau_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5779:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5779:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[31]
-
-LaTeX Warning: File `figures/manila/FI_raw_time_5.png' not found on input line 
-405.
-
-
-! Package pdftex.def Error: File `figures/manila/FI_raw_time_5.png' not found: 
-using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.405 ...ewidth]{figures/manila/FI_raw_time_5.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5803:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5803:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[32]
-
-LaTeX Warning: File `figures/manila/FI_raw_time_6.png' not found on input line 
-411.
-
-
-! Package pdftex.def Error: File `figures/manila/FI_raw_time_6.png' not found: 
-using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.411 ...ewidth]{figures/manila/FI_raw_time_6.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5804:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5804:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[33]
-
-LaTeX Warning: File `figures/manila/FI_raw_time_7.png' not found on input line 
-417.
-
-
-! Package pdftex.def Error: File `figures/manila/FI_raw_time_7.png' not found: 
-using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.417 ...ewidth]{figures/manila/FI_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5805:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5805:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[34]
-
-LaTeX Warning: File `figures/manila/FG_raw_time_4.png' not found on input line 
-424.
-
-
-! Package pdftex.def Error: File `figures/manila/FG_raw_time_4.png' not found: 
-using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.424 ...ewidth]{figures/manila/FG_raw_time_4.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5827:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5827:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[35]
-
-LaTeX Warning: File `figures/manila/FG_raw_time_5.png' not found on input line 
-430.
-
-
-! Package pdftex.def Error: File `figures/manila/FG_raw_time_5.png' not found: 
-using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.430 ...ewidth]{figures/manila/FG_raw_time_5.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5828:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5828:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[36]
-
-LaTeX Warning: File `figures/manila/FG_raw_time_6.png' not found on input line 
-436.
-
-
-! Package pdftex.def Error: File `figures/manila/FG_raw_time_6.png' not found: 
-using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.436 ...ewidth]{figures/manila/FG_raw_time_6.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5829:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5829:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[37]
-
-LaTeX Warning: File `figures/manila/FG_raw_time_7.png' not found on input line 
-442.
-
-
-! Package pdftex.def Error: File `figures/manila/FG_raw_time_7.png' not found: 
-using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.442 ...ewidth]{figures/manila/FG_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5830:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5830:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[38]
-
-LaTeX Warning: File `figures/manila/tau_raw_time_4.png' not found on input line
- 449.
-
-
-! Package pdftex.def Error: File `figures/manila/tau_raw_time_4.png' not found:
- using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.449 ...width]{figures/manila/tau_raw_time_4.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5852:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5852:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[39]
-
-LaTeX Warning: File `figures/manila/tau_raw_time_5.png' not found on input line
- 455.
-
-
-! Package pdftex.def Error: File `figures/manila/tau_raw_time_5.png' not found:
- using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.455 ...width]{figures/manila/tau_raw_time_5.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5853:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5853:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[40]
-
-LaTeX Warning: File `figures/manila/tau_raw_time_6.png' not found on input line
- 461.
-
-
-! Package pdftex.def Error: File `figures/manila/tau_raw_time_6.png' not found:
- using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.461 ...width]{figures/manila/tau_raw_time_6.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5854:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5854:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[41]
-
-LaTeX Warning: File `figures/manila/tau_raw_time_7.png' not found on input line
- 467.
-
-
-! Package pdftex.def Error: File `figures/manila/tau_raw_time_7.png' not found:
- using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.467 ...width]{figures/manila/tau_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5855:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5855:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[42]
-
-LaTeX Warning: File `figures/bogota/FI_raw_time_5.png' not found on input line 
-476.
-
-
-! Package pdftex.def Error: File `figures/bogota/FI_raw_time_5.png' not found: 
-using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.476 ...ewidth]{figures/bogota/FI_raw_time_5.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5879:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5879:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[43]
-
-LaTeX Warning: File `figures/bogota/FI_raw_time_6.png' not found on input line 
-482.
-
-
-! Package pdftex.def Error: File `figures/bogota/FI_raw_time_6.png' not found: 
-using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.482 ...ewidth]{figures/bogota/FI_raw_time_6.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5880:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5880:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[44]
-
-LaTeX Warning: File `figures/bogota/FI_raw_time_7.png' not found on input line 
-488.
-
-
-! Package pdftex.def Error: File `figures/bogota/FI_raw_time_7.png' not found: 
-using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.488 ...ewidth]{figures/bogota/FI_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5881:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5881:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[45]
-
-LaTeX Warning: File `figures/bogota/FG_raw_time_4.png' not found on input line 
-495.
-
-
-! Package pdftex.def Error: File `figures/bogota/FG_raw_time_4.png' not found: 
-using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.495 ...ewidth]{figures/bogota/FG_raw_time_4.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5903:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5903:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[46]
-
-LaTeX Warning: File `figures/bogota/FG_raw_time_5.png' not found on input line 
-501.
-
-
-! Package pdftex.def Error: File `figures/bogota/FG_raw_time_5.png' not found: 
-using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.501 ...ewidth]{figures/bogota/FG_raw_time_5.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5904:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5904:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[47]
-
-LaTeX Warning: File `figures/bogota/FG_raw_time_6.png' not found on input line 
-507.
-
-
-! Package pdftex.def Error: File `figures/bogota/FG_raw_time_6.png' not found: 
-using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.507 ...ewidth]{figures/bogota/FG_raw_time_6.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5905:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5905:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[48]
-
-LaTeX Warning: File `figures/bogota/FG_raw_time_7.png' not found on input line 
-513.
-
-
-! Package pdftex.def Error: File `figures/bogota/FG_raw_time_7.png' not found: 
-using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.513 ...ewidth]{figures/bogota/FG_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5906:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5906:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[49]
-
-LaTeX Warning: File `figures/bogota/tau_raw_time_4.png' not found on input line
- 520.
-
-
-! Package pdftex.def Error: File `figures/bogota/tau_raw_time_4.png' not found:
- using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.520 ...width]{figures/bogota/tau_raw_time_4.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5928:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5928:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[50]
-
-LaTeX Warning: File `figures/bogota/tau_raw_time_5.png' not found on input line
- 526.
-
-
-! Package pdftex.def Error: File `figures/bogota/tau_raw_time_5.png' not found:
- using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.526 ...width]{figures/bogota/tau_raw_time_5.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5929:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5929:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[51]
-
-LaTeX Warning: File `figures/bogota/tau_raw_time_6.png' not found on input line
- 532.
-
-
-! Package pdftex.def Error: File `figures/bogota/tau_raw_time_6.png' not found:
- using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.532 ...width]{figures/bogota/tau_raw_time_6.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5930:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5930:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[52]
-
-LaTeX Warning: File `figures/bogota/tau_raw_time_7.png' not found on input line
- 538.
-
-
-! Package pdftex.def Error: File `figures/bogota/tau_raw_time_7.png' not found:
- using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.538 ...width]{figures/bogota/tau_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5931:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5931:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[53]
-
-LaTeX Warning: File `figures/santiago/FI_raw_time_5.png' not found on input lin
+(pdftex.def)             Requested size: 276.00105pt x 183.1371pt.
+
+:tex2html_wrap947:lthtmlCropMarkHeight:=189.1371pt
+
+:tex2html_wrap947:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[37 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/FI_raw_time_0.png>]
+<figures/brooklyn/FI_raw_time_1.png, id=234, 878.8032pt x 584.4234pt>
+File: figures/brooklyn/FI_raw_time_1.png Graphic file (type png)
+<use figures/brooklyn/FI_raw_time_1.png>
+Package pdftex.def Info: figures/brooklyn/FI_raw_time_1.png  used on input line
+ 389.
+(pdftex.def)             Requested size: 276.00105pt x 183.55037pt.
+
+:tex2html_wrap948:lthtmlCropMarkHeight:=189.55037pt
+
+:tex2html_wrap948:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[38 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/FI_raw_time_1.png>]
+<figures/brooklyn/FI_raw_time_2.png, id=240, 878.8032pt x 580.569pt>
+File: figures/brooklyn/FI_raw_time_2.png Graphic file (type png)
+<use figures/brooklyn/FI_raw_time_2.png>
+Package pdftex.def Info: figures/brooklyn/FI_raw_time_2.png  used on input line
+ 395.
+(pdftex.def)             Requested size: 276.00105pt x 182.33981pt.
+
+:tex2html_wrap949:lthtmlCropMarkHeight:=188.33981pt
+
+:tex2html_wrap949:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[39 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/FI_raw_time_2.png>]
+<figures/brooklyn/FI_raw_time_3.png, id=246, 878.8032pt x 580.569pt>
+File: figures/brooklyn/FI_raw_time_3.png Graphic file (type png)
+<use figures/brooklyn/FI_raw_time_3.png>
+Package pdftex.def Info: figures/brooklyn/FI_raw_time_3.png  used on input line
+ 401.
+(pdftex.def)             Requested size: 276.00105pt x 182.33981pt.
+
+:tex2html_wrap950:lthtmlCropMarkHeight:=188.33981pt
+
+:tex2html_wrap950:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[40 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/FI_raw_time_3.png>]
+<figures/brooklyn/FI_raw_time_4.png, id=252, 878.8032pt x 580.569pt>
+File: figures/brooklyn/FI_raw_time_4.png Graphic file (type png)
+<use figures/brooklyn/FI_raw_time_4.png>
+Package pdftex.def Info: figures/brooklyn/FI_raw_time_4.png  used on input line
+ 407.
+(pdftex.def)             Requested size: 276.00105pt x 182.33981pt.
+
+:tex2html_wrap951:lthtmlCropMarkHeight:=188.33981pt
+
+:tex2html_wrap951:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[41 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/FI_raw_time_4.png>]
+<figures/brooklyn/FI_raw_time_5.png, id=258, 878.8032pt x 580.569pt>
+File: figures/brooklyn/FI_raw_time_5.png Graphic file (type png)
+<use figures/brooklyn/FI_raw_time_5.png>
+Package pdftex.def Info: figures/brooklyn/FI_raw_time_5.png  used on input line
+ 413.
+(pdftex.def)             Requested size: 276.00105pt x 182.33981pt.
+
+:tex2html_wrap952:lthtmlCropMarkHeight:=188.33981pt
+
+:tex2html_wrap952:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[42 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/FI_raw_time_5.png>]
+<figures/brooklyn/FI_raw_time_6.png, id=264, 878.8032pt x 580.569pt>
+File: figures/brooklyn/FI_raw_time_6.png Graphic file (type png)
+<use figures/brooklyn/FI_raw_time_6.png>
+Package pdftex.def Info: figures/brooklyn/FI_raw_time_6.png  used on input line
+ 419.
+(pdftex.def)             Requested size: 276.00105pt x 182.33981pt.
+
+:tex2html_wrap953:lthtmlCropMarkHeight:=188.33981pt
+
+:tex2html_wrap953:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[43 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/FI_raw_time_6.png>]
+<figures/brooklyn/FI_raw_time_7.png, id=271, 878.8032pt x 582.0144pt>
+File: figures/brooklyn/FI_raw_time_7.png Graphic file (type png)
+<use figures/brooklyn/FI_raw_time_7.png>
+Package pdftex.def Info: figures/brooklyn/FI_raw_time_7.png  used on input line
+ 425.
+(pdftex.def)             Requested size: 276.00105pt x 182.79378pt.
+
+:tex2html_wrap954:lthtmlCropMarkHeight:=188.79378pt
+
+:tex2html_wrap954:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[44 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/FI_raw_time_7.png>]
+<figures/brooklyn/FG_across-time.png, id=277, 396.5214pt x 268.6035pt>
+File: figures/brooklyn/FG_across-time.png Graphic file (type png)
+<use figures/brooklyn/FG_across-time.png>
+Package pdftex.def Info: figures/brooklyn/FG_across-time.png  used on input lin
+e 432.
+(pdftex.def)             Requested size: 276.00105pt x 186.97194pt.
+
+:tex2html_wrap976:lthtmlCropMarkHeight:=192.97194pt
+
+:tex2html_wrap976:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[45 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/FG_across-time.png>
+]
+<figures/brooklyn/FG_point-in-time.png, id=283, 393.1488pt x 268.6035pt>
+File: figures/brooklyn/FG_point-in-time.png Graphic file (type png)
+<use figures/brooklyn/FG_point-in-time.png>
+Package pdftex.def Info: figures/brooklyn/FG_point-in-time.png  used on input l
+ine 438.
+(pdftex.def)             Requested size: 276.00105pt x 188.57446pt.
+
+:tex2html_wrap977:lthtmlCropMarkHeight:=194.57446pt
+
+:tex2html_wrap977:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[46 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/FG_point-in-time.pn
+g>]
+<figures/brooklyn/FG_raw_lattice.png, id=289, 525.6438pt x 700.7781pt>
+File: figures/brooklyn/FG_raw_lattice.png Graphic file (type png)
+<use figures/brooklyn/FG_raw_lattice.png>
+Package pdftex.def Info: figures/brooklyn/FG_raw_lattice.png  used on input lin
+e 444.
+(pdftex.def)             Requested size: 413.99895pt x 551.95123pt.
+
+:tex2html_wrap978:lthtmlCropMarkHeight:=557.95123pt
+
+:tex2html_wrap978:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[47 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/FG_raw_lattice.png>
+]
+<figures/brooklyn/FG_raw_time_0.png, id=295, 897.1116pt x 580.569pt>
+File: figures/brooklyn/FG_raw_time_0.png Graphic file (type png)
+<use figures/brooklyn/FG_raw_time_0.png>
+Package pdftex.def Info: figures/brooklyn/FG_raw_time_0.png  used on input line
+ 450.
+(pdftex.def)             Requested size: 276.00105pt x 178.61028pt.
+
+:tex2html_wrap979:lthtmlCropMarkHeight:=184.61028pt
+
+:tex2html_wrap979:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[48 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/FG_raw_time_0.png>]
+<figures/brooklyn/FG_raw_time_1.png, id=301, 900.966pt x 580.569pt>
+File: figures/brooklyn/FG_raw_time_1.png Graphic file (type png)
+<use figures/brooklyn/FG_raw_time_1.png>
+Package pdftex.def Info: figures/brooklyn/FG_raw_time_1.png  used on input line
+ 456.
+(pdftex.def)             Requested size: 276.00105pt x 177.84842pt.
+
+:tex2html_wrap980:lthtmlCropMarkHeight:=183.84842pt
+
+:tex2html_wrap980:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[49 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/FG_raw_time_1.png>]
+<figures/brooklyn/FG_raw_time_2.png, id=308, 900.966pt x 580.569pt>
+File: figures/brooklyn/FG_raw_time_2.png Graphic file (type png)
+<use figures/brooklyn/FG_raw_time_2.png>
+Package pdftex.def Info: figures/brooklyn/FG_raw_time_2.png  used on input line
+ 462.
+(pdftex.def)             Requested size: 276.00105pt x 177.84842pt.
+
+:tex2html_wrap981:lthtmlCropMarkHeight:=183.84842pt
+
+:tex2html_wrap981:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[50 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/FG_raw_time_2.png>]
+<figures/brooklyn/FG_raw_time_3.png, id=314, 900.966pt x 580.569pt>
+File: figures/brooklyn/FG_raw_time_3.png Graphic file (type png)
+<use figures/brooklyn/FG_raw_time_3.png>
+Package pdftex.def Info: figures/brooklyn/FG_raw_time_3.png  used on input line
+ 468.
+(pdftex.def)             Requested size: 276.00105pt x 177.84842pt.
+
+:tex2html_wrap982:lthtmlCropMarkHeight:=183.84842pt
+
+:tex2html_wrap982:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[51 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/FG_raw_time_3.png>]
+<figures/brooklyn/FG_raw_time_4.png, id=320, 900.966pt x 580.569pt>
+File: figures/brooklyn/FG_raw_time_4.png Graphic file (type png)
+<use figures/brooklyn/FG_raw_time_4.png>
+Package pdftex.def Info: figures/brooklyn/FG_raw_time_4.png  used on input line
+ 474.
+(pdftex.def)             Requested size: 276.00105pt x 177.84842pt.
+
+:tex2html_wrap983:lthtmlCropMarkHeight:=183.84842pt
+
+:tex2html_wrap983:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[52 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/FG_raw_time_4.png>]
+<figures/brooklyn/FG_raw_time_5.png, id=326, 900.966pt x 580.569pt>
+File: figures/brooklyn/FG_raw_time_5.png Graphic file (type png)
+<use figures/brooklyn/FG_raw_time_5.png>
+Package pdftex.def Info: figures/brooklyn/FG_raw_time_5.png  used on input line
+ 480.
+(pdftex.def)             Requested size: 276.00105pt x 177.84842pt.
+
+:tex2html_wrap984:lthtmlCropMarkHeight:=183.84842pt
+
+:tex2html_wrap984:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[53 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/FG_raw_time_5.png>]
+<figures/brooklyn/FG_raw_time_6.png, id=332, 900.966pt x 582.4962pt>
+File: figures/brooklyn/FG_raw_time_6.png Graphic file (type png)
+<use figures/brooklyn/FG_raw_time_6.png>
+Package pdftex.def Info: figures/brooklyn/FG_raw_time_6.png  used on input line
+ 486.
+(pdftex.def)             Requested size: 276.00105pt x 178.4388pt.
+
+:tex2html_wrap985:lthtmlCropMarkHeight:=184.4388pt
+
+:tex2html_wrap985:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[54 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/FG_raw_time_6.png>]
+<figures/brooklyn/FG_raw_time_7.png, id=338, 900.966pt x 580.569pt>
+File: figures/brooklyn/FG_raw_time_7.png Graphic file (type png)
+<use figures/brooklyn/FG_raw_time_7.png>
+Package pdftex.def Info: figures/brooklyn/FG_raw_time_7.png  used on input line
+ 492.
+(pdftex.def)             Requested size: 276.00105pt x 177.84842pt.
+
+:tex2html_wrap986:lthtmlCropMarkHeight:=183.84842pt
+
+:tex2html_wrap986:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[55 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/FG_raw_time_7.png>]
+<figures/brooklyn/tau_across-time.png, id=345, 393.1488pt x 268.6035pt>
+File: figures/brooklyn/tau_across-time.png Graphic file (type png)
+<use figures/brooklyn/tau_across-time.png>
+Package pdftex.def Info: figures/brooklyn/tau_across-time.png  used on input li
+ne 499.
+(pdftex.def)             Requested size: 276.00105pt x 188.57446pt.
+
+:tex2html_wrap1008:lthtmlCropMarkHeight:=194.57446pt
+
+:tex2html_wrap1008:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[56 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/tau_across-time.png
+>]
+<figures/brooklyn/tau_point-in-time.png, id=351, 398.9304pt x 268.6035pt>
+File: figures/brooklyn/tau_point-in-time.png Graphic file (type png)
+<use figures/brooklyn/tau_point-in-time.png>
+Package pdftex.def Info: figures/brooklyn/tau_point-in-time.png  used on input 
+line 505.
+(pdftex.def)             Requested size: 276.00105pt x 185.84483pt.
+
+:tex2html_wrap1009:lthtmlCropMarkHeight:=191.84483pt
+
+:tex2html_wrap1009:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[57 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/tau_point-in-time.p
+ng>]
+<figures/brooklyn/tau_raw_time_0.png, id=357, 868.6854pt x 580.569pt>
+File: figures/brooklyn/tau_raw_time_0.png Graphic file (type png)
+<use figures/brooklyn/tau_raw_time_0.png>
+Package pdftex.def Info: figures/brooklyn/tau_raw_time_0.png  used on input lin
+e 511.
+(pdftex.def)             Requested size: 276.00105pt x 184.45706pt.
+
+:tex2html_wrap1010:lthtmlCropMarkHeight:=190.45706pt
+
+:tex2html_wrap1010:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[58 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/tau_raw_time_0.png>
+]
+<figures/brooklyn/tau_raw_time_1.png, id=363, 872.5398pt x 580.569pt>
+File: figures/brooklyn/tau_raw_time_1.png Graphic file (type png)
+<use figures/brooklyn/tau_raw_time_1.png>
+Package pdftex.def Info: figures/brooklyn/tau_raw_time_1.png  used on input lin
+e 517.
+(pdftex.def)             Requested size: 276.00105pt x 183.64204pt.
+
+:tex2html_wrap1011:lthtmlCropMarkHeight:=189.64204pt
+
+:tex2html_wrap1011:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[59 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/tau_raw_time_1.png>
+]
+<figures/brooklyn/tau_raw_time_2.png, id=369, 872.5398pt x 581.0508pt>
+File: figures/brooklyn/tau_raw_time_2.png Graphic file (type png)
+<use figures/brooklyn/tau_raw_time_2.png>
+Package pdftex.def Info: figures/brooklyn/tau_raw_time_2.png  used on input lin
+e 523.
+(pdftex.def)             Requested size: 276.00105pt x 183.79445pt.
+
+:tex2html_wrap1012:lthtmlCropMarkHeight:=189.79445pt
+
+:tex2html_wrap1012:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[60 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/tau_raw_time_2.png>
+]
+<figures/brooklyn/tau_raw_time_3.png, id=375, 872.5398pt x 580.569pt>
+File: figures/brooklyn/tau_raw_time_3.png Graphic file (type png)
+<use figures/brooklyn/tau_raw_time_3.png>
+Package pdftex.def Info: figures/brooklyn/tau_raw_time_3.png  used on input lin
+e 529.
+(pdftex.def)             Requested size: 276.00105pt x 183.64204pt.
+
+:tex2html_wrap1013:lthtmlCropMarkHeight:=189.64204pt
+
+:tex2html_wrap1013:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[61 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/tau_raw_time_3.png>
+]
+<figures/brooklyn/tau_raw_time_4.png, id=382, 872.5398pt x 580.569pt>
+File: figures/brooklyn/tau_raw_time_4.png Graphic file (type png)
+<use figures/brooklyn/tau_raw_time_4.png>
+Package pdftex.def Info: figures/brooklyn/tau_raw_time_4.png  used on input lin
+e 535.
+(pdftex.def)             Requested size: 276.00105pt x 183.64204pt.
+
+:tex2html_wrap1014:lthtmlCropMarkHeight:=189.64204pt
+
+:tex2html_wrap1014:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[62 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/tau_raw_time_4.png>
+]
+<figures/brooklyn/tau_raw_time_5.png, id=388, 872.5398pt x 580.569pt>
+File: figures/brooklyn/tau_raw_time_5.png Graphic file (type png)
+<use figures/brooklyn/tau_raw_time_5.png>
+Package pdftex.def Info: figures/brooklyn/tau_raw_time_5.png  used on input lin
+e 541.
+(pdftex.def)             Requested size: 276.00105pt x 183.64204pt.
+
+:tex2html_wrap1015:lthtmlCropMarkHeight:=189.64204pt
+
+:tex2html_wrap1015:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[63 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/tau_raw_time_5.png>
+]
+<figures/brooklyn/tau_raw_time_6.png, id=394, 872.5398pt x 580.569pt>
+File: figures/brooklyn/tau_raw_time_6.png Graphic file (type png)
+<use figures/brooklyn/tau_raw_time_6.png>
+Package pdftex.def Info: figures/brooklyn/tau_raw_time_6.png  used on input lin
 e 547.
+(pdftex.def)             Requested size: 276.00105pt x 183.64204pt.
 
+:tex2html_wrap1016:lthtmlCropMarkHeight:=189.64204pt
 
-! Package pdftex.def Error: File `figures/santiago/FI_raw_time_5.png' not found
-: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.547 ...idth]{figures/santiago/FI_raw_time_5.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5955:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5955:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[54]
-
-LaTeX Warning: File `figures/santiago/FI_raw_time_6.png' not found on input lin
+:tex2html_wrap1016:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[64 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/tau_raw_time_6.png>
+]
+<figures/brooklyn/tau_raw_time_7.png, id=400, 872.5398pt x 580.569pt>
+File: figures/brooklyn/tau_raw_time_7.png Graphic file (type png)
+<use figures/brooklyn/tau_raw_time_7.png>
+Package pdftex.def Info: figures/brooklyn/tau_raw_time_7.png  used on input lin
 e 553.
-
-
-! Package pdftex.def Error: File `figures/santiago/FI_raw_time_6.png' not found
-: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.553 ...idth]{figures/santiago/FI_raw_time_6.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5956:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5956:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[55]
-
-LaTeX Warning: File `figures/santiago/FI_raw_time_7.png' not found on input lin
-e 559.
-
-
-! Package pdftex.def Error: File `figures/santiago/FI_raw_time_7.png' not found
-: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.559 ...idth]{figures/santiago/FI_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5957:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5957:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[56]
-
-LaTeX Warning: File `figures/santiago/FG_raw_time_4.png' not found on input lin
-e 566.
-
-
-! Package pdftex.def Error: File `figures/santiago/FG_raw_time_4.png' not found
-: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.566 ...idth]{figures/santiago/FG_raw_time_4.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5979:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5979:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[57]
-
-LaTeX Warning: File `figures/santiago/FG_raw_time_5.png' not found on input lin
-e 572.
-
-
-! Package pdftex.def Error: File `figures/santiago/FG_raw_time_5.png' not found
-: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.572 ...idth]{figures/santiago/FG_raw_time_5.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5980:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5980:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[58]
-
-LaTeX Warning: File `figures/santiago/FG_raw_time_6.png' not found on input lin
-e 578.
-
-
-! Package pdftex.def Error: File `figures/santiago/FG_raw_time_6.png' not found
-: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.578 ...idth]{figures/santiago/FG_raw_time_6.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5981:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5981:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[59]
-
-LaTeX Warning: File `figures/santiago/FG_raw_time_7.png' not found on input lin
-e 584.
-
-
-! Package pdftex.def Error: File `figures/santiago/FG_raw_time_7.png' not found
-: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.584 ...idth]{figures/santiago/FG_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap5982:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap5982:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[60]
-
-LaTeX Warning: File `figures/santiago/tau_raw_time_4.png' not found on input li
-ne 591.
-
-
-! Package pdftex.def Error: File `figures/santiago/tau_raw_time_4.png' not foun
-d: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.591 ...dth]{figures/santiago/tau_raw_time_4.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap6004:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap6004:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[61]
-
-LaTeX Warning: File `figures/santiago/tau_raw_time_5.png' not found on input li
-ne 597.
-
-
-! Package pdftex.def Error: File `figures/santiago/tau_raw_time_5.png' not foun
-d: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.597 ...dth]{figures/santiago/tau_raw_time_5.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap6005:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap6005:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[62]
-
-LaTeX Warning: File `figures/santiago/tau_raw_time_6.png' not found on input li
-ne 603.
-
-
-! Package pdftex.def Error: File `figures/santiago/tau_raw_time_6.png' not foun
-d: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.603 ...dth]{figures/santiago/tau_raw_time_6.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap6006:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap6006:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[63]
-
-LaTeX Warning: File `figures/santiago/tau_raw_time_7.png' not found on input li
-ne 609.
-
-
-! Package pdftex.def Error: File `figures/santiago/tau_raw_time_7.png' not foun
-d: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.609 ...dth]{figures/santiago/tau_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap6007:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap6007:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[64]
-
-LaTeX Warning: File `figures/quito/FI_raw_time_5.png' not found on input line 6
-18.
-
-
-! Package pdftex.def Error: File `figures/quito/FI_raw_time_5.png' not found: u
-sing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.618 ...newidth]{figures/quito/FI_raw_time_5.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap6031:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap6031:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[65]
-
-LaTeX Warning: File `figures/quito/FI_raw_time_6.png' not found on input line 6
-24.
-
-
-! Package pdftex.def Error: File `figures/quito/FI_raw_time_6.png' not found: u
-sing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.624 ...newidth]{figures/quito/FI_raw_time_6.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap6032:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap6032:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[66]
-
-LaTeX Warning: File `figures/quito/FI_raw_time_7.png' not found on input line 6
-30.
-
-
-! Package pdftex.def Error: File `figures/quito/FI_raw_time_7.png' not found: u
-sing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.630 ...newidth]{figures/quito/FI_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap6033:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap6033:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[67]
-
-LaTeX Warning: File `figures/quito/FG_raw_time_4.png' not found on input line 6
-37.
-
-
-! Package pdftex.def Error: File `figures/quito/FG_raw_time_4.png' not found: u
-sing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.637 ...newidth]{figures/quito/FG_raw_time_4.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap6055:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap6055:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[68]
-
-LaTeX Warning: File `figures/quito/FG_raw_time_5.png' not found on input line 6
-43.
-
-
-! Package pdftex.def Error: File `figures/quito/FG_raw_time_5.png' not found: u
-sing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.643 ...newidth]{figures/quito/FG_raw_time_5.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap6056:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap6056:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[69]
-
-LaTeX Warning: File `figures/quito/FG_raw_time_6.png' not found on input line 6
-49.
-
-
-! Package pdftex.def Error: File `figures/quito/FG_raw_time_6.png' not found: u
-sing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.649 ...newidth]{figures/quito/FG_raw_time_6.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap6057:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap6057:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[70]
-
-LaTeX Warning: File `figures/quito/FG_raw_time_7.png' not found on input line 6
-55.
-
-
-! Package pdftex.def Error: File `figures/quito/FG_raw_time_7.png' not found: u
-sing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.655 ...newidth]{figures/quito/FG_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap6058:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap6058:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[71]
-
-LaTeX Warning: File `figures/quito/tau_raw_time_4.png' not found on input line 
-662.
-
-
-! Package pdftex.def Error: File `figures/quito/tau_raw_time_4.png' not found: 
-using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.662 ...ewidth]{figures/quito/tau_raw_time_4.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap6080:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap6080:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[72]
-
-LaTeX Warning: File `figures/quito/tau_raw_time_5.png' not found on input line 
-668.
-
-
-! Package pdftex.def Error: File `figures/quito/tau_raw_time_5.png' not found: 
-using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.668 ...ewidth]{figures/quito/tau_raw_time_5.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap6081:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap6081:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[73]
-
-LaTeX Warning: File `figures/quito/tau_raw_time_6.png' not found on input line 
-674.
-
-
-! Package pdftex.def Error: File `figures/quito/tau_raw_time_6.png' not found: 
-using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.674 ...ewidth]{figures/quito/tau_raw_time_6.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap6082:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap6082:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[74]
-
-LaTeX Warning: File `figures/quito/tau_raw_time_7.png' not found on input line 
-680.
-
-
-! Package pdftex.def Error: File `figures/quito/tau_raw_time_7.png' not found: 
-using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.680 ...ewidth]{figures/quito/tau_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap6083:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap6083:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[75]
-
-LaTeX Warning: File `figures/lima/FI_raw_time_5.png' not found on input line 68
-9.
-
-
-! Package pdftex.def Error: File `figures/lima/FI_raw_time_5.png' not found: us
-ing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.689 ...inewidth]{figures/lima/FI_raw_time_5.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap6107:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap6107:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[76]
-
-LaTeX Warning: File `figures/lima/FI_raw_time_6.png' not found on input line 69
-5.
-
-
-! Package pdftex.def Error: File `figures/lima/FI_raw_time_6.png' not found: us
-ing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.695 ...inewidth]{figures/lima/FI_raw_time_6.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap6108:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap6108:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[77]
-
-LaTeX Warning: File `figures/lima/FI_raw_time_7.png' not found on input line 70
-1.
-
-
-! Package pdftex.def Error: File `figures/lima/FI_raw_time_7.png' not found: us
-ing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.701 ...inewidth]{figures/lima/FI_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap6109:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap6109:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[78]
-
-LaTeX Warning: File `figures/lima/FG_raw_time_4.png' not found on input line 70
-8.
-
-
-! Package pdftex.def Error: File `figures/lima/FG_raw_time_4.png' not found: us
-ing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.708 ...inewidth]{figures/lima/FG_raw_time_4.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap6131:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap6131:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[79]
-
-LaTeX Warning: File `figures/lima/FG_raw_time_5.png' not found on input line 71
-4.
-
-
-! Package pdftex.def Error: File `figures/lima/FG_raw_time_5.png' not found: us
-ing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.714 ...inewidth]{figures/lima/FG_raw_time_5.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap6132:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap6132:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[80]
-
-LaTeX Warning: File `figures/lima/FG_raw_time_6.png' not found on input line 72
-0.
-
-
-! Package pdftex.def Error: File `figures/lima/FG_raw_time_6.png' not found: us
-ing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.720 ...inewidth]{figures/lima/FG_raw_time_6.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap6133:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap6133:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[81]
-
-LaTeX Warning: File `figures/lima/FG_raw_time_7.png' not found on input line 72
-6.
-
-
-! Package pdftex.def Error: File `figures/lima/FG_raw_time_7.png' not found: us
-ing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.726 ...inewidth]{figures/lima/FG_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap6134:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap6134:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[82]
-
-LaTeX Warning: File `figures/lima/tau_raw_time_4.png' not found on input line 7
-33.
-
-
-! Package pdftex.def Error: File `figures/lima/tau_raw_time_4.png' not found: u
-sing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.733 ...newidth]{figures/lima/tau_raw_time_4.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap6156:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap6156:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[83]
-
-LaTeX Warning: File `figures/lima/tau_raw_time_5.png' not found on input line 7
-39.
-
-
-! Package pdftex.def Error: File `figures/lima/tau_raw_time_5.png' not found: u
-sing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.739 ...newidth]{figures/lima/tau_raw_time_5.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap6157:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap6157:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[84]
-
-LaTeX Warning: File `figures/lima/tau_raw_time_6.png' not found on input line 7
-45.
-
-
-! Package pdftex.def Error: File `figures/lima/tau_raw_time_6.png' not found: u
-sing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.745 ...newidth]{figures/lima/tau_raw_time_6.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap6158:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap6158:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[85]
-
-LaTeX Warning: File `figures/lima/tau_raw_time_7.png' not found on input line 7
-51.
-
-
-! Package pdftex.def Error: File `figures/lima/tau_raw_time_7.png' not found: u
-sing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.751 ...newidth]{figures/lima/tau_raw_time_7.png}
-                                                  %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-:tex2html_wrap6159:lthtmlCropMarkHeight:=282.0774pt
-
-:tex2html_wrap6159:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[86] (./images.aux)
+(pdftex.def)             Requested size: 276.00105pt x 183.64204pt.
+
+:tex2html_wrap1017:lthtmlCropMarkHeight:=189.64204pt
+
+:tex2html_wrap1017:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[65 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/tau_raw_time_7.png>
+]
+<figures/brooklyn/nmi.png, id=406, 406.8801pt x 271.2534pt>
+File: figures/brooklyn/nmi.png Graphic file (type png)
+<use figures/brooklyn/nmi.png>
+Package pdftex.def Info: figures/brooklyn/nmi.png  used on input line 560.
+(pdftex.def)             Requested size: 413.99895pt x 276.00014pt.
+
+:tex2html_wrap1039:lthtmlCropMarkHeight:=282.00014pt
+
+:tex2html_wrap1039:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[66 </home/samudra/Desktop/sjv_website_dev/figures/brooklyn/nmi.png>] (./images
+.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -2422,19 +1303,18 @@ Package rerunfilecheck Info: File `images.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12539 strings out of 478353
- 264425 string characters out of 5848101
+ 10370 strings out of 478353
+ 173502 string characters out of 5848101
  446473 words of memory out of 5000000
- 30401 multiletter control sequences out of 15000+600000
- 403598 words of font info for 28 fonts, out of 8000000 for 9000
+ 28281 multiletter control sequences out of 15000+600000
+ 403430 words of font info for 27 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,5n,63p,228b,325s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb
->
-Output written on images.pdf (86 pages, 41857 bytes).
+
+Output written on images.pdf (66 pages, 17689814 bytes).
 PDF statistics:
- 396 PDF objects out of 1000 (max. 8388607)
- 302 compressed objects within 4 object streams
- 86 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 433 PDF objects out of 1000 (max. 8388607)
+ 230 compressed objects within 3 object streams
+ 66 named destinations out of 1000 (max. 500000)
+ 331 words of extra memory for PDF output out of 10000 (max. 10000000)
 
