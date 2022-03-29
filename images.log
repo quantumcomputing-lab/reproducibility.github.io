@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2022.1.4)  23 MAR 2022 13:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2022.1.4)  28 MAR 2022 21:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -167,7 +167,7 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen143
 \Gin@req@width=\dimen144
-) (/home/samudra/Desktop/sjv_website/html.sty
+) (/home/samudra/Desktop/sjv_website_dev/html.sty
 Package: html 1996/02/01 v1.0 hypertext commands for latex2html (nd, hs)
 
 ! LaTeX Error: Command \htmladdnormallinkfoot already defined.
@@ -345,7 +345,98 @@ Package: luatex85 2016/06/15 v1.4 pdftex aliases for luatex
 File: l3backend-pdftex.def 2021-12-14 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count290
 \l__pdf_internal_box=\box55
-) (./images.aux)
+) (./images.aux
+
+LaTeX Warning: Label `tbl:FI' multiply defined.
+
+
+LaTeX Warning: Label `tbl:FG' multiply defined.
+
+
+LaTeX Warning: Label `tbl:FI' multiply defined.
+
+
+LaTeX Warning: Label `tbl:FG' multiply defined.
+
+
+LaTeX Warning: Label `tbl:FI' multiply defined.
+
+
+LaTeX Warning: Label `tbl:FG' multiply defined.
+
+
+LaTeX Warning: Label `tbl:FI' multiply defined.
+
+
+LaTeX Warning: Label `tbl:FG' multiply defined.
+
+
+LaTeX Warning: Label `tbl:FI' multiply defined.
+
+
+LaTeX Warning: Label `tbl:FG' multiply defined.
+
+
+LaTeX Warning: Label `tbl:FI' multiply defined.
+
+
+LaTeX Warning: Label `tbl:FG' multiply defined.
+
+
+LaTeX Warning: Label `tbl:FI' multiply defined.
+
+
+LaTeX Warning: Label `tbl:FG' multiply defined.
+
+
+LaTeX Warning: Label `tbl:FI' multiply defined.
+
+
+LaTeX Warning: Label `tbl:FG' multiply defined.
+
+
+LaTeX Warning: Label `tbl:FI' multiply defined.
+
+
+LaTeX Warning: Label `tbl:FG' multiply defined.
+
+
+LaTeX Warning: Label `tbl:FI' multiply defined.
+
+
+LaTeX Warning: Label `tbl:FG' multiply defined.
+
+
+LaTeX Warning: Label `tbl:FI' multiply defined.
+
+
+LaTeX Warning: Label `tbl:FG' multiply defined.
+
+
+LaTeX Warning: Label `tbl:FI' multiply defined.
+
+
+LaTeX Warning: Label `tbl:FG' multiply defined.
+
+
+LaTeX Warning: Label `tbl:FI' multiply defined.
+
+
+LaTeX Warning: Label `tbl:FG' multiply defined.
+
+
+LaTeX Warning: Label `tbl:FI' multiply defined.
+
+
+LaTeX Warning: Label `tbl:FG' multiply defined.
+
+
+LaTeX Warning: Label `tbl:FI' multiply defined.
+
+
+LaTeX Warning: Label `tbl:FG' multiply defined.
+
+)
 \openout1 = `images.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 131.
@@ -432,199 +523,1918 @@ latex2htmlLength oddsidemargin=53.0pt
 latex2htmlLength evensidemargin=53.0pt
 
 
-LaTeX Warning: File `washington/FG/FG_raw_time_0.png' not found on input line 1
-60.
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/toronto/FI_r
+aw_time_7.png' not found on input line 169.
 
 
-! Package pdftex.def Error: File `washington/FG/FG_raw_time_0.png' not found: u
-sing draft setting.
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/toronto/FI_raw_time_7.png' not found: using draft setting.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.160 ...newidth]{washington/FG/FG_raw_time_0.png}
+l.169 ...bility/figures/toronto/FI_raw_time_7.png}
                                                   %
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-:tex2html_wrap548:lthtmlCropMarkHeight:=282.0774pt
+:tex2html_wrap5122:lthtmlCropMarkHeight:=282.0774pt
 
-:tex2html_wrap548:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+:tex2html_wrap5122:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
 Preview: Tightpage -32890 -32890 32890 32890
 [1{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
-LaTeX Warning: File `washington/FG/FG_raw_time_1.png' not found on input line 1
-66.
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/mumbai/FI_ra
+w_time_7.png' not found on input line 180.
 
 
-! Package pdftex.def Error: File `washington/FG/FG_raw_time_1.png' not found: u
-sing draft setting.
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/mumbai/FI_raw_time_7.png' not found: using draft setting.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.166 ...newidth]{washington/FG/FG_raw_time_1.png}
+l.180 ...ability/figures/mumbai/FI_raw_time_7.png}
                                                   %
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-:tex2html_wrap552:lthtmlCropMarkHeight:=282.0774pt
+:tex2html_wrap5188:lthtmlCropMarkHeight:=282.0774pt
 
-:tex2html_wrap552:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+:tex2html_wrap5188:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
 [2]
 
-LaTeX Warning: File `washington/FG/FG_raw_time_2.png' not found on input line 1
-72.
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/mumbai/FG_ra
+w_time_7.png' not found on input line 187.
 
 
-! Package pdftex.def Error: File `washington/FG/FG_raw_time_2.png' not found: u
-sing draft setting.
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/mumbai/FG_raw_time_7.png' not found: using draft setting.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.172 ...newidth]{washington/FG/FG_raw_time_2.png}
+l.187 ...ability/figures/mumbai/FG_raw_time_7.png}
                                                   %
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-:tex2html_wrap556:lthtmlCropMarkHeight:=282.0774pt
+:tex2html_wrap5210:lthtmlCropMarkHeight:=282.0774pt
 
-:tex2html_wrap556:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+:tex2html_wrap5210:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
 [3]
 
-LaTeX Warning: File `washington/FG/FG_raw_time_3.png' not found on input line 1
-78.
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/mumbai/tau_r
+aw_time_7.png' not found on input line 194.
 
 
-! Package pdftex.def Error: File `washington/FG/FG_raw_time_3.png' not found: u
-sing draft setting.
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/mumbai/tau_raw_time_7.png' not found: using draft setting.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.178 ...newidth]{washington/FG/FG_raw_time_3.png}
+l.194 ...bility/figures/mumbai/tau_raw_time_7.png}
                                                   %
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-:tex2html_wrap560:lthtmlCropMarkHeight:=282.0774pt
+:tex2html_wrap5232:lthtmlCropMarkHeight:=282.0774pt
 
-:tex2html_wrap560:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+:tex2html_wrap5232:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
 [4]
 
-LaTeX Warning: File `washington/FG/FG_raw_time_4.png' not found on input line 1
-84.
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/cairo/FI_raw
+_time_7.png' not found on input line 203.
 
 
-! Package pdftex.def Error: File `washington/FG/FG_raw_time_4.png' not found: u
-sing draft setting.
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/cairo/FI_raw_time_7.png' not found: using draft setting.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.184 ...newidth]{washington/FG/FG_raw_time_4.png}
+l.203 ...iability/figures/cairo/FI_raw_time_7.png}
                                                   %
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-:tex2html_wrap564:lthtmlCropMarkHeight:=282.0774pt
+:tex2html_wrap5256:lthtmlCropMarkHeight:=282.0774pt
 
-:tex2html_wrap564:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+:tex2html_wrap5256:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
 [5]
 
-LaTeX Warning: File `washington/FG/FG_raw_time_5.png' not found on input line 1
-90.
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/cairo/FG_raw
+_time_7.png' not found on input line 210.
 
 
-! Package pdftex.def Error: File `washington/FG/FG_raw_time_5.png' not found: u
-sing draft setting.
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/cairo/FG_raw_time_7.png' not found: using draft setting.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.190 ...newidth]{washington/FG/FG_raw_time_5.png}
+l.210 ...iability/figures/cairo/FG_raw_time_7.png}
                                                   %
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-:tex2html_wrap568:lthtmlCropMarkHeight:=282.0774pt
+:tex2html_wrap5278:lthtmlCropMarkHeight:=282.0774pt
 
-:tex2html_wrap568:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+:tex2html_wrap5278:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
 [6]
 
-LaTeX Warning: File `washington/FG/FG_raw_time_6.png' not found on input line 1
-96.
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/cairo/tau_ra
+w_time_7.png' not found on input line 217.
 
 
-! Package pdftex.def Error: File `washington/FG/FG_raw_time_6.png' not found: u
-sing draft setting.
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/cairo/tau_raw_time_7.png' not found: using draft setting.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.196 ...newidth]{washington/FG/FG_raw_time_6.png}
+l.217 ...ability/figures/cairo/tau_raw_time_7.png}
                                                   %
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-:tex2html_wrap572:lthtmlCropMarkHeight:=282.0774pt
+:tex2html_wrap5300:lthtmlCropMarkHeight:=282.0774pt
 
-:tex2html_wrap572:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+:tex2html_wrap5300:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
 [7]
 
-LaTeX Warning: File `washington/FG/FG_raw_time_7.png' not found on input line 2
-02.
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/montreal/FI_
+raw_time_7.png' not found on input line 226.
 
 
-! Package pdftex.def Error: File `washington/FG/FG_raw_time_7.png' not found: u
-sing draft setting.
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/montreal/FI_raw_time_7.png' not found: using draft setting.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.202 ...newidth]{washington/FG/FG_raw_time_7.png}
+l.226 ...ility/figures/montreal/FI_raw_time_7.png}
                                                   %
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-:tex2html_wrap576:lthtmlCropMarkHeight:=282.0774pt
+:tex2html_wrap5324:lthtmlCropMarkHeight:=282.0774pt
 
-:tex2html_wrap576:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
-[8] (./images.aux)
+:tex2html_wrap5324:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[8]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/montreal/FG_
+raw_time_7.png' not found on input line 233.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/montreal/FG_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.233 ...ility/figures/montreal/FG_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5346:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5346:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[9]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/montreal/tau
+_raw_time_7.png' not found on input line 240.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/montreal/tau_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.240 ...lity/figures/montreal/tau_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5368:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5368:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[10]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/auckland/FI_
+raw_time_7.png' not found on input line 249.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/auckland/FI_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.249 ...ility/figures/auckland/FI_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5392:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5392:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[11]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/auckland/FG_
+raw_time_7.png' not found on input line 256.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/auckland/FG_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.256 ...ility/figures/auckland/FG_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5414:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5414:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[12]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/auckland/tau
+_raw_time_7.png' not found on input line 263.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/auckland/tau_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.263 ...lity/figures/auckland/tau_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5436:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5436:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[13]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/hanoi/FI_raw
+_time_7.png' not found on input line 272.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/hanoi/FI_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.272 ...iability/figures/hanoi/FI_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5460:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5460:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[14]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/hanoi/FG_raw
+_time_7.png' not found on input line 279.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/hanoi/FG_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.279 ...iability/figures/hanoi/FG_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5482:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5482:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[15]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/hanoi/tau_ra
+w_time_7.png' not found on input line 286.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/hanoi/tau_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.286 ...ability/figures/hanoi/tau_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5504:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5504:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[16]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/perth/FI_raw
+_time_7.png' not found on input line 300.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/perth/FI_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.300 ...iability/figures/perth/FI_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5593:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5593:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[17]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/perth/FG_raw
+_time_6.png' not found on input line 307.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/perth/FG_raw_time_6.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.307 ...iability/figures/perth/FG_raw_time_6.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5615:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5615:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[18]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/perth/FG_raw
+_time_7.png' not found on input line 313.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/perth/FG_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.313 ...iability/figures/perth/FG_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5616:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5616:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[19]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/perth/tau_ra
+w_time_6.png' not found on input line 320.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/perth/tau_raw_time_6.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.320 ...ability/figures/perth/tau_raw_time_6.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5638:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5638:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[20]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/perth/tau_ra
+w_time_7.png' not found on input line 326.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/perth/tau_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.326 ...ability/figures/perth/tau_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5639:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5639:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[21]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/lagos/FI_raw
+_time_7.png' not found on input line 335.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/lagos/FI_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.335 ...iability/figures/lagos/FI_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5663:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5663:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[22]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/lagos/FG_raw
+_time_6.png' not found on input line 342.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/lagos/FG_raw_time_6.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.342 ...iability/figures/lagos/FG_raw_time_6.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5685:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5685:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[23]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/lagos/FG_raw
+_time_7.png' not found on input line 348.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/lagos/FG_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.348 ...iability/figures/lagos/FG_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5686:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5686:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[24]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/lagos/tau_ra
+w_time_6.png' not found on input line 355.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/lagos/tau_raw_time_6.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.355 ...ability/figures/lagos/tau_raw_time_6.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5708:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5708:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[25]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/lagos/tau_ra
+w_time_7.png' not found on input line 361.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/lagos/tau_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.361 ...ability/figures/lagos/tau_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5709:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5709:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[26]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/jakarta/FI_r
+aw_time_7.png' not found on input line 370.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/jakarta/FI_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.370 ...bility/figures/jakarta/FI_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5733:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5733:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[27]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/jakarta/FG_r
+aw_time_6.png' not found on input line 377.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/jakarta/FG_raw_time_6.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.377 ...bility/figures/jakarta/FG_raw_time_6.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5755:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5755:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[28]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/jakarta/FG_r
+aw_time_7.png' not found on input line 383.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/jakarta/FG_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.383 ...bility/figures/jakarta/FG_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5756:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5756:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[29]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/jakarta/tau_
+raw_time_6.png' not found on input line 390.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/jakarta/tau_raw_time_6.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.390 ...ility/figures/jakarta/tau_raw_time_6.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5778:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5778:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[30]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/jakarta/tau_
+raw_time_7.png' not found on input line 396.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/jakarta/tau_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.396 ...ility/figures/jakarta/tau_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5779:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5779:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[31]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/manila/FI_ra
+w_time_5.png' not found on input line 405.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/manila/FI_raw_time_5.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.405 ...ability/figures/manila/FI_raw_time_5.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5803:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5803:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[32]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/manila/FI_ra
+w_time_6.png' not found on input line 411.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/manila/FI_raw_time_6.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.411 ...ability/figures/manila/FI_raw_time_6.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5804:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5804:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[33]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/manila/FI_ra
+w_time_7.png' not found on input line 417.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/manila/FI_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.417 ...ability/figures/manila/FI_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5805:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5805:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[34]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/manila/FG_ra
+w_time_4.png' not found on input line 424.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/manila/FG_raw_time_4.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.424 ...ability/figures/manila/FG_raw_time_4.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5827:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5827:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[35]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/manila/FG_ra
+w_time_5.png' not found on input line 430.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/manila/FG_raw_time_5.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.430 ...ability/figures/manila/FG_raw_time_5.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5828:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5828:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[36]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/manila/FG_ra
+w_time_6.png' not found on input line 436.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/manila/FG_raw_time_6.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.436 ...ability/figures/manila/FG_raw_time_6.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5829:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5829:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[37]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/manila/FG_ra
+w_time_7.png' not found on input line 442.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/manila/FG_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.442 ...ability/figures/manila/FG_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5830:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5830:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[38]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/manila/tau_r
+aw_time_4.png' not found on input line 449.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/manila/tau_raw_time_4.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.449 ...bility/figures/manila/tau_raw_time_4.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5852:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5852:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[39]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/manila/tau_r
+aw_time_5.png' not found on input line 455.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/manila/tau_raw_time_5.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.455 ...bility/figures/manila/tau_raw_time_5.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5853:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5853:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[40]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/manila/tau_r
+aw_time_6.png' not found on input line 461.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/manila/tau_raw_time_6.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.461 ...bility/figures/manila/tau_raw_time_6.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5854:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5854:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[41]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/manila/tau_r
+aw_time_7.png' not found on input line 467.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/manila/tau_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.467 ...bility/figures/manila/tau_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5855:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5855:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[42]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/bogota/FI_ra
+w_time_5.png' not found on input line 476.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/bogota/FI_raw_time_5.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.476 ...ability/figures/bogota/FI_raw_time_5.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5879:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5879:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[43]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/bogota/FI_ra
+w_time_6.png' not found on input line 482.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/bogota/FI_raw_time_6.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.482 ...ability/figures/bogota/FI_raw_time_6.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5880:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5880:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[44]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/bogota/FI_ra
+w_time_7.png' not found on input line 488.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/bogota/FI_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.488 ...ability/figures/bogota/FI_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5881:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5881:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[45]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/bogota/FG_ra
+w_time_4.png' not found on input line 495.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/bogota/FG_raw_time_4.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.495 ...ability/figures/bogota/FG_raw_time_4.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5903:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5903:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[46]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/bogota/FG_ra
+w_time_5.png' not found on input line 501.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/bogota/FG_raw_time_5.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.501 ...ability/figures/bogota/FG_raw_time_5.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5904:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5904:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[47]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/bogota/FG_ra
+w_time_6.png' not found on input line 507.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/bogota/FG_raw_time_6.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.507 ...ability/figures/bogota/FG_raw_time_6.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5905:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5905:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[48]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/bogota/FG_ra
+w_time_7.png' not found on input line 513.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/bogota/FG_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.513 ...ability/figures/bogota/FG_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5906:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5906:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[49]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/bogota/tau_r
+aw_time_4.png' not found on input line 520.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/bogota/tau_raw_time_4.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.520 ...bility/figures/bogota/tau_raw_time_4.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5928:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5928:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[50]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/bogota/tau_r
+aw_time_5.png' not found on input line 526.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/bogota/tau_raw_time_5.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.526 ...bility/figures/bogota/tau_raw_time_5.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5929:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5929:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[51]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/bogota/tau_r
+aw_time_6.png' not found on input line 532.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/bogota/tau_raw_time_6.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.532 ...bility/figures/bogota/tau_raw_time_6.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5930:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5930:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[52]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/bogota/tau_r
+aw_time_7.png' not found on input line 538.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/bogota/tau_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.538 ...bility/figures/bogota/tau_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5931:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5931:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[53]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/santiago/FI_
+raw_time_5.png' not found on input line 547.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/santiago/FI_raw_time_5.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.547 ...ility/figures/santiago/FI_raw_time_5.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5955:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5955:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[54]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/santiago/FI_
+raw_time_6.png' not found on input line 553.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/santiago/FI_raw_time_6.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.553 ...ility/figures/santiago/FI_raw_time_6.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5956:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5956:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[55]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/santiago/FI_
+raw_time_7.png' not found on input line 559.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/santiago/FI_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.559 ...ility/figures/santiago/FI_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5957:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5957:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[56]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/santiago/FG_
+raw_time_4.png' not found on input line 566.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/santiago/FG_raw_time_4.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.566 ...ility/figures/santiago/FG_raw_time_4.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5979:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5979:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[57]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/santiago/FG_
+raw_time_5.png' not found on input line 572.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/santiago/FG_raw_time_5.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.572 ...ility/figures/santiago/FG_raw_time_5.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5980:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5980:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[58]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/santiago/FG_
+raw_time_6.png' not found on input line 578.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/santiago/FG_raw_time_6.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.578 ...ility/figures/santiago/FG_raw_time_6.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5981:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5981:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[59]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/santiago/FG_
+raw_time_7.png' not found on input line 584.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/santiago/FG_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.584 ...ility/figures/santiago/FG_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap5982:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap5982:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[60]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/santiago/tau
+_raw_time_4.png' not found on input line 591.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/santiago/tau_raw_time_4.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.591 ...lity/figures/santiago/tau_raw_time_4.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap6004:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap6004:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[61]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/santiago/tau
+_raw_time_5.png' not found on input line 597.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/santiago/tau_raw_time_5.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.597 ...lity/figures/santiago/tau_raw_time_5.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap6005:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap6005:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[62]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/santiago/tau
+_raw_time_6.png' not found on input line 603.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/santiago/tau_raw_time_6.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.603 ...lity/figures/santiago/tau_raw_time_6.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap6006:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap6006:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[63]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/santiago/tau
+_raw_time_7.png' not found on input line 609.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/santiago/tau_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.609 ...lity/figures/santiago/tau_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap6007:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap6007:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[64]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/quito/FI_raw
+_time_5.png' not found on input line 618.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/quito/FI_raw_time_5.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.618 ...iability/figures/quito/FI_raw_time_5.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap6031:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap6031:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[65]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/quito/FI_raw
+_time_6.png' not found on input line 624.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/quito/FI_raw_time_6.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.624 ...iability/figures/quito/FI_raw_time_6.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap6032:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap6032:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[66]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/quito/FI_raw
+_time_7.png' not found on input line 630.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/quito/FI_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.630 ...iability/figures/quito/FI_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap6033:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap6033:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[67]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/quito/FG_raw
+_time_4.png' not found on input line 637.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/quito/FG_raw_time_4.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.637 ...iability/figures/quito/FG_raw_time_4.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap6055:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap6055:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[68]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/quito/FG_raw
+_time_5.png' not found on input line 643.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/quito/FG_raw_time_5.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.643 ...iability/figures/quito/FG_raw_time_5.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap6056:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap6056:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[69]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/quito/FG_raw
+_time_6.png' not found on input line 649.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/quito/FG_raw_time_6.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.649 ...iability/figures/quito/FG_raw_time_6.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap6057:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap6057:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[70]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/quito/FG_raw
+_time_7.png' not found on input line 655.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/quito/FG_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.655 ...iability/figures/quito/FG_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap6058:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap6058:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[71]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/quito/tau_ra
+w_time_4.png' not found on input line 662.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/quito/tau_raw_time_4.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.662 ...ability/figures/quito/tau_raw_time_4.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap6080:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap6080:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[72]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/quito/tau_ra
+w_time_5.png' not found on input line 668.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/quito/tau_raw_time_5.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.668 ...ability/figures/quito/tau_raw_time_5.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap6081:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap6081:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[73]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/quito/tau_ra
+w_time_6.png' not found on input line 674.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/quito/tau_raw_time_6.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.674 ...ability/figures/quito/tau_raw_time_6.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap6082:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap6082:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[74]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/quito/tau_ra
+w_time_7.png' not found on input line 680.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/quito/tau_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.680 ...ability/figures/quito/tau_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap6083:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap6083:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[75]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/lima/FI_raw_
+time_5.png' not found on input line 689.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/lima/FI_raw_time_5.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.689 ...liability/figures/lima/FI_raw_time_5.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap6107:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap6107:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[76]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/lima/FI_raw_
+time_6.png' not found on input line 695.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/lima/FI_raw_time_6.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.695 ...liability/figures/lima/FI_raw_time_6.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap6108:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap6108:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[77]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/lima/FI_raw_
+time_7.png' not found on input line 701.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/lima/FI_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.701 ...liability/figures/lima/FI_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap6109:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap6109:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[78]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/lima/FG_raw_
+time_4.png' not found on input line 708.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/lima/FG_raw_time_4.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.708 ...liability/figures/lima/FG_raw_time_4.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap6131:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap6131:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[79]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/lima/FG_raw_
+time_5.png' not found on input line 714.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/lima/FG_raw_time_5.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.714 ...liability/figures/lima/FG_raw_time_5.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap6132:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap6132:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[80]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/lima/FG_raw_
+time_6.png' not found on input line 720.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/lima/FG_raw_time_6.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.720 ...liability/figures/lima/FG_raw_time_6.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap6133:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap6133:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[81]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/lima/FG_raw_
+time_7.png' not found on input line 726.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/lima/FG_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.726 ...liability/figures/lima/FG_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap6134:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap6134:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[82]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/lima/tau_raw
+_time_4.png' not found on input line 733.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/lima/tau_raw_time_4.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.733 ...iability/figures/lima/tau_raw_time_4.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap6156:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap6156:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[83]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/lima/tau_raw
+_time_5.png' not found on input line 739.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/lima/tau_raw_time_5.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.739 ...iability/figures/lima/tau_raw_time_5.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap6157:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap6157:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[84]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/lima/tau_raw
+_time_6.png' not found on input line 745.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/lima/tau_raw_time_6.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.745 ...iability/figures/lima/tau_raw_time_6.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap6158:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap6158:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[85]
+
+LaTeX Warning: File `/home/samudra/Desktop/mc1_reliability/figures/lima/tau_raw
+_time_7.png' not found on input line 751.
+
+
+! Package pdftex.def Error: File `/home/samudra/Desktop/mc1_reliability/figures
+/lima/tau_raw_time_7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.751 ...iability/figures/lima/tau_raw_time_7.png}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+:tex2html_wrap6159:lthtmlCropMarkHeight:=282.0774pt
+
+:tex2html_wrap6159:lthtmlCropMarkDepth:=0.0pt:1ex:=4.30554pt
+[86] (./images.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `images.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10087 strings out of 478353
- 163269 string characters out of 5848101
- 446325 words of memory out of 5000000
- 28059 multiletter control sequences out of 15000+600000
+ 12539 strings out of 478353
+ 363529 string characters out of 5848101
+ 446473 words of memory out of 5000000
+ 30401 multiletter control sequences out of 15000+600000
  403598 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,5n,63p,228b,325s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb
 >
-Output written on images.pdf (8 pages, 17017 bytes).
+Output written on images.pdf (86 pages, 44838 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
- 8 named destinations out of 1000 (max. 500000)
+ 396 PDF objects out of 1000 (max. 8388607)
+ 302 compressed objects within 4 object streams
+ 86 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
