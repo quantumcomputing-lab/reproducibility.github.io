@@ -3,7 +3,7 @@
 <!--Converted with LaTeX2HTML 2022 (Released January 1, 2022) -->
 <HTML lang="en">
 <HEAD>
-<TITLE>Metric 3: Duty cycle</TITLE>
+<TITLE>On the choice of technology for realizing quantum computing. Who will win?</TITLE>
 
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
 <META NAME="viewport" CONTENT="width=device-width, initial-scale=1.0">
@@ -23,158 +23,45 @@
  HREF="node6.html">
 <IMG WIDTH="37" HEIGHT="24" ALT="next" SRC="next.png"></A> 
 <A
- HREF="node2.html">
+ HREF="node3.html">
 <IMG WIDTH="26" HEIGHT="24" ALT="up" SRC="up.png"></A> 
 <A
  HREF="node4.html">
 <IMG WIDTH="63" HEIGHT="24" ALT="previous" SRC="prev.png"></A>   
 <BR>
 <B> Next:</B> <A
- HREF="node6.html">Metric 4: Addressability</A>
+ HREF="node6.html">Defining Quantum Data Science</A>
 <B> Up:</B> <A
- HREF="node2.html">washington</A>
+ HREF="node3.html">Quantum Computing: misc</A>
 <B> Previous:</B> <A
- HREF="node4.html">Metric 2: Gate fidelity</A>
+ HREF="node4.html">Models of quantum computation</A>
 <BR>
 <BR></DIV>
 <!--End of Navigation Panel-->
 
-<H3><A ID="SECTION00011300000000000000">
-Metric 3: Duty cycle</A>
-</H3>
-<BR><P></P>
-<DIV class="CENTER">
-<DIV class="CENTER"><A ID="tbl:tau"></A>
-<DIV class="CENTER">
-<TABLE class="PAD  BORDER" style="">
-<TR><TD CLASS="CENTER" COLSPAN=2><SPAN>METRIC 3: DUTY CYCLE</SPAN></TD>
-</TR>
-<TR><TD CLASS="CENTER">Confidence interval (across time)</TD>
-<TD CLASS="CENTER">Confidence interval (point-in-time)</TD>
-</TR>
-<TR><TD CLASS="CENTER">
-<DIV class="CENTER">
+<H2><A ID="SECTION00032000000000000000">
+On the choice of technology for realizing quantum computing. Who will win?</A>
+</H2>
+A) Superconducting qubits:
+Transmon based architectures have the largest number of qubits. It is an open question however whether they will continue to scale since shorter coherence times might make it too hard for qecc to keep up. In fact, I wonder if there will be a Moore's law like effect (or rather the failure of Moore's law like effect). One might ask, how will coherence hit its limits and hence what kind of limitations on q adv are we going to hit upon. 
 
-<P><A ID="fig:tau_across-time"></A></P>
-<DIV class="CENTER"><IMG
- STYLE="height: 43.87ex; vertical-align: -0.12ex; " SRC="img23.svg"
- ALT="\includegraphics[width=0.8\linewidth]{{figures/washington/tau_across-time.png}}">
+<P>
+B) Trapped ions
+Have their own scalability issues. 
 
-</DIV>
-</DIV></TD>
-<TD CLASS="CENTER">
-<DIV class="CENTER">
+<P>
+C) Spin qubits (e.g. quantum dots)
+precise control down to the last spin possible
+decoherence no longer a bottleneck (nuclear spins and spin-orbit interaction are now the dominant source of decoherence and relaxation and need to be improved)
+great for scaling once they get going but still down in the few qubits at the moment
+[Prospects for Spin-Based Quantum Computing: Christoph Kloeffel, Daniel Loss]
 
-<P><A ID="fig:tau_point-in-time"></A></P>
-<DIV class="CENTER"><IMG
- STYLE="height: 43.76ex; vertical-align: -0.12ex; " SRC="img24.svg"
- ALT="\includegraphics[width=0.8\linewidth]{{figures/washington/tau_point-in-time.png}}">
+<P>
+D) Majoranas
+Suspected to properties that make them noise resilient. No qubits yet.
 
-</DIV>
-</DIV></TD>
-</TR>
-<TR><TD CLASS="CENTER" COLSPAN=2><SPAN>RAW DATA: ACROSS TIME</SPAN></TD>
-</TR>
-<TR><TD CLASS="CENTER">Set 1</TD>
-<TD CLASS="CENTER">Set 2</TD>
-</TR>
-<TR><TD CLASS="CENTER">
-<DIV class="CENTER">
-
-<P><A ID="fig:tau_raw_time_0"></A></P>
-<DIV class="CENTER"><IMG
- STYLE="height: 42.88ex; vertical-align: -0.12ex; " SRC="img25.svg"
- ALT="\includegraphics[width=0.8\linewidth]{{figures/washington/tau_raw_time_0.png}}">
-
-</DIV>
-</DIV></TD>
-<TD CLASS="CENTER">
-<DIV class="CENTER">
-
-<P><A ID="fig:tau_raw_time_1"></A></P>
-<DIV class="CENTER"><IMG
- STYLE="height: 42.88ex; vertical-align: -0.12ex; " SRC="img26.svg"
- ALT="\includegraphics[width=0.8\linewidth]{{figures/washington/tau_raw_time_1.png}}">
-
-</DIV>
-</DIV></TD>
-</TR>
-<TR><TD CLASS="CENTER">Set 3</TD>
-<TD CLASS="CENTER">Set 4</TD>
-</TR>
-<TR><TD CLASS="CENTER">
-<DIV class="CENTER">
-
-<P><A ID="fig:tau_raw_time_2"></A></P>
-<DIV class="CENTER"><IMG
- STYLE="height: 42.88ex; vertical-align: -0.12ex; " SRC="img27.svg"
- ALT="\includegraphics[width=0.8\linewidth]{{figures/washington/tau_raw_time_2.png}}">
-
-</DIV>
-</DIV></TD>
-<TD CLASS="CENTER">
-<DIV class="CENTER">
-
-<P><A ID="fig:tau_raw_time_3"></A></P>
-<DIV class="CENTER"><IMG
- STYLE="height: 42.88ex; vertical-align: -0.12ex; " SRC="img28.svg"
- ALT="\includegraphics[width=0.8\linewidth]{{figures/washington/tau_raw_time_3.png}}">
-
-</DIV>
-</DIV></TD>
-</TR>
-<TR><TD CLASS="CENTER">Set 5</TD>
-<TD CLASS="CENTER">Set 6</TD>
-</TR>
-<TR><TD CLASS="CENTER">
-<DIV class="CENTER">
-
-<P><A ID="fig:tau_raw_time_4"></A></P>
-<DIV class="CENTER"><IMG
- STYLE="height: 42.88ex; vertical-align: -0.12ex; " SRC="img29.svg"
- ALT="\includegraphics[width=0.8\linewidth]{{figures/washington/tau_raw_time_4.png}}">
-
-</DIV>
-</DIV></TD>
-<TD CLASS="CENTER">
-<DIV class="CENTER">
-
-<P><A ID="fig:tau_raw_time_5"></A></P>
-<DIV class="CENTER"><IMG
- STYLE="height: 42.79ex; vertical-align: -0.12ex; " SRC="img30.svg"
- ALT="\includegraphics[width=0.8\linewidth]{{figures/washington/tau_raw_time_5.png}}">
-
-</DIV>
-</DIV></TD>
-</TR>
-<TR><TD CLASS="CENTER">Set 7</TD>
-<TD CLASS="CENTER">Set 8</TD>
-</TR>
-<TR><TD CLASS="CENTER">
-<DIV class="CENTER">
-
-<P><A ID="fig:tau_raw_time_6"></A></P>
-<DIV class="CENTER"><IMG
- STYLE="height: 42.70ex; vertical-align: -0.12ex; " SRC="img31.svg"
- ALT="\includegraphics[width=0.8\linewidth]{{figures/washington/tau_raw_time_6.png}}">
-
-</DIV>
-</DIV></TD>
-<TD CLASS="CENTER">
-<DIV class="CENTER">
-
-<P><A ID="fig:tau_raw_time_7"></A></P>
-<DIV class="CENTER"><IMG
- STYLE="height: 42.70ex; vertical-align: -0.12ex; " SRC="img32.svg"
- ALT="\includegraphics[width=0.8\linewidth]{{figures/washington/tau_raw_time_7.png}}">
-
-</DIV>
-</DIV></TD>
-</TR>
-</TABLE>
-</DIV></DIV>
-</DIV>
-<BR>
+<P>
+E) Photonics
 
 <P>
 <BR><HR>

@@ -94,6 +94,10 @@ $key = q/fig:nmi/;
 $ref_files{$key} = "$dir".q|node86.html|; 
 $noresave{$key} = "$nosave";
 
+$key = q/fig:result_dummy_mc3/;
+$ref_files{$key} = "$dir".q|node3.html|; 
+$noresave{$key} = "$nosave";
+
 $key = q/fig:tau_across-time/;
 $ref_files{$key} = "$dir".q|node85.html|; 
 $noresave{$key} = "$nosave";
@@ -139,7 +143,7 @@ $ref_files{$key} = "$dir".q|node84.html|;
 $noresave{$key} = "$nosave";
 
 $key = q/tbl:FI/;
-$ref_files{$key} = "$dir".q|node83.html|; 
+$ref_files{$key} = "$dir".q|node3.html|; 
 $noresave{$key} = "$nosave";
 
 $key = q/tbl:nmi/;

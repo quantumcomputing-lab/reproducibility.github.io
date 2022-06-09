@@ -94,6 +94,10 @@ $key = q/fig:nmi/;
 $external_labels{$key} = "$URL/" . q|node86.html|; 
 $noresave{$key} = "$nosave";
 
+$key = q/fig:result_dummy_mc3/;
+$external_labels{$key} = "$URL/" . q|node3.html|; 
+$noresave{$key} = "$nosave";
+
 $key = q/fig:tau_across-time/;
 $external_labels{$key} = "$URL/" . q|node85.html|; 
 $noresave{$key} = "$nosave";
@@ -139,7 +143,7 @@ $external_labels{$key} = "$URL/" . q|node84.html|;
 $noresave{$key} = "$nosave";
 
 $key = q/tbl:FI/;
-$external_labels{$key} = "$URL/" . q|node83.html|; 
+$external_labels{$key} = "$URL/" . q|node3.html|; 
 $noresave{$key} = "$nosave";
 
 $key = q/tbl:nmi/;
